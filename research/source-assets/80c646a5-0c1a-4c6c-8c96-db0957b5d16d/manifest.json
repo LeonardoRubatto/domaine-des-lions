@@ -1,0 +1,93 @@
+{
+  "assets": [
+    {
+      "contentType": "image/webp",
+      "id": "1020f51a715c2154",
+      "kind": "image",
+      "name": "Frame-36.png",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/1020f51a715c2154.png",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2025/04/Frame-36.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dd49ef39764d5354",
+      "kind": "image",
+      "name": "3.jpeg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/dd49ef39764d5354.jpeg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/3.jpeg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "02950eec62bed07a",
+      "kind": "image",
+      "name": "2.jpeg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/02950eec62bed07a.jpeg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/2.jpeg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2c48fc2782eb64e6",
+      "kind": "image",
+      "name": "1.jpeg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/2c48fc2782eb64e6.jpeg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/1.jpeg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b6de43a18f8e38ca",
+      "kind": "image",
+      "name": "4.jpeg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/b6de43a18f8e38ca.jpeg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/4.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "23839cb9631c86e4",
+      "kind": "image",
+      "name": "5.jpeg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/23839cb9631c86e4.jpeg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/5.jpeg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e4d9e4a90b451791",
+      "kind": "image",
+      "name": "logo_header.png",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/e4d9e4a90b451791.png",
+      "url": "https://ledomaineauxlions.fr/wp-content/themes/theme-understrap/images/logo_header.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f2afcdd6fe1097c5",
+      "kind": "image",
+      "name": "footer-presentation.jpg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/f2afcdd6fe1097c5.jpg",
+      "url": "https://ledomaineauxlions.fr/wp-content/themes/theme-understrap/images/footer-presentation.jpg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2e9d3c4a35df937e",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/2e9d3c4a35df937e.svg",
+      "url": "inline-svg:2e9d3c4a35df937e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f2e97ad07e624d0f",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/f2e97ad07e624d0f.svg",
+      "url": "inline-svg:f2e97ad07e624d0f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "33e1321b85235657",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/80c646a5-0c1a-4c6c-8c96-db0957b5d16d/33e1321b85235657.svg",
+      "url": "inline-svg:33e1321b85235657"
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,16 @@
+House-style tells — C:\.Leonardo\TELAVENTIS BUISNESSES websites\domaine aux lions\dist
+22 file(s) scanned, 16 page(s)
+
+Totals (limits in rules/forbidden.md → House-style tells):
+  eyebrow                   2   (1/page)
+  accent-word               0   (1/page)
+  numbered-index            0   (1/page)
+  arrow-links               0   (2/page)
+  stats-band                0   (1/page, 1/site)
+  three-equal-columns       0   (1/page, 1/site)
+  pill-shapes               0   (2/page)
+  reveal-every-heading      0   (3/page)
+  paper-background          0   (needs a reason)
+  overused-font             0   (needs a reason)
+
+Nothing over its limit. This scan is regex heuristics — it does not replace the critique pass (scripts/critique.mjs).

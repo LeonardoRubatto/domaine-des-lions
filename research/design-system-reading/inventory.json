@@ -1,0 +1,4171 @@
+{
+  "root": "C:\\.Leonardo\\Project\\design system (website elements template)",
+  "text": [
+    {
+      "path": ".gitattributes",
+      "bytes": 446,
+      "chars": 444,
+      "lines": 9
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 373,
+      "chars": 371,
+      "lines": 11
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 18850,
+      "chars": 18683,
+      "lines": 323
+    },
+    {
+      "path": "catalog.json",
+      "bytes": 121549,
+      "chars": 121223,
+      "lines": 2194
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 11,
+      "chars": 11,
+      "lines": 1
+    },
+    {
+      "path": "CREDITS.md",
+      "bytes": 36527,
+      "chars": 36466,
+      "lines": 1107
+    },
+    {
+      "path": "DEVLOG.md",
+      "bytes": 55270,
+      "chars": 54781,
+      "lines": 867
+    },
+    {
+      "path": "examples.json",
+      "bytes": 1842,
+      "chars": 1834,
+      "lines": 16
+    },
+    {
+      "path": "ledger.json",
+      "bytes": 5705,
+      "chars": 5686,
+      "lines": 151
+    },
+    {
+      "path": "package.json",
+      "bytes": 1116,
+      "chars": 1116,
+      "lines": 29
+    },
+    {
+      "path": "README.md",
+      "bytes": 22216,
+      "chars": 21739,
+      "lines": 402
+    },
+    {
+      "path": "sources.md",
+      "bytes": 12764,
+      "chars": 12672,
+      "lines": 228
+    },
+    {
+      "path": "start-preview.cmd",
+      "bytes": 628,
+      "chars": 628,
+      "lines": 26
+    },
+    {
+      "path": "TODO.md",
+      "bytes": 2683,
+      "chars": 2669,
+      "lines": 49
+    },
+    {
+      "path": ".claude/launch.json",
+      "bytes": 215,
+      "chars": 215,
+      "lines": 11
+    },
+    {
+      "path": ".claude/settings.json",
+      "bytes": 522,
+      "chars": 522,
+      "lines": 26
+    },
+    {
+      "path": ".codex/hooks.json",
+      "bytes": 654,
+      "chars": 654,
+      "lines": 28
+    },
+    {
+      "path": "evals/briefs.json",
+      "bytes": 16620,
+      "chars": 16479,
+      "lines": 346
+    },
+    {
+      "path": "evals/README.md",
+      "bytes": 3971,
+      "chars": 3933,
+      "lines": 77
+    },
+    {
+      "path": "examples/.gitkeep",
+      "bytes": 0,
+      "chars": 0,
+      "lines": 0
+    },
+    {
+      "path": "examples/README.md",
+      "bytes": 221,
+      "chars": 217,
+      "lines": 1
+    },
+    {
+      "path": "examples/hero/example.md",
+      "bytes": 6284,
+      "chars": 6244,
+      "lines": 115
+    },
+    {
+      "path": "examples/hero/code/hero-section.tsx",
+      "bytes": 6308,
+      "chars": 6294,
+      "lines": 164
+    },
+    {
+      "path": "examples/hero/code/lib/utils.ts",
+      "bytes": 166,
+      "chars": 166,
+      "lines": 6
+    },
+    {
+      "path": "hooks/payload-adapter.mjs",
+      "bytes": 4547,
+      "chars": 4539,
+      "lines": 98
+    },
+    {
+      "path": "hooks/post-write-check.mjs",
+      "bytes": 10658,
+      "chars": 10650,
+      "lines": 263
+    },
+    {
+      "path": "hooks/pre-write-check.mjs",
+      "bytes": 17268,
+      "chars": 17224,
+      "lines": 364
+    },
+    {
+      "path": "items/3d-webgl/broken-glass-click-effect/item.md",
+      "bytes": 3613,
+      "chars": 3587,
+      "lines": 78
+    },
+    {
+      "path": "items/3d-webgl/broken-glass-click-effect/code/index.html",
+      "bytes": 8191,
+      "chars": 8191,
+      "lines": 215
+    },
+    {
+      "path": "items/3d-webgl/broken-glass-click-effect/code/script.js",
+      "bytes": 6551,
+      "chars": 6551,
+      "lines": 211
+    },
+    {
+      "path": "items/3d-webgl/broken-glass-click-effect/code/style.css",
+      "bytes": 749,
+      "chars": 749,
+      "lines": 39
+    },
+    {
+      "path": "items/3d-webgl/fireworks-canvas/item.md",
+      "bytes": 3782,
+      "chars": 3758,
+      "lines": 80
+    },
+    {
+      "path": "items/3d-webgl/fireworks-canvas/code/index.html",
+      "bytes": 475,
+      "chars": 475,
+      "lines": 15
+    },
+    {
+      "path": "items/3d-webgl/fireworks-canvas/code/script.js",
+      "bytes": 18118,
+      "chars": 18118,
+      "lines": 407
+    },
+    {
+      "path": "items/3d-webgl/fireworks-canvas/code/style.css",
+      "bytes": 960,
+      "chars": 960,
+      "lines": 31
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/item.md",
+      "bytes": 5326,
+      "chars": 5304,
+      "lines": 101
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/LICENSE",
+      "bytes": 1059,
+      "chars": 1059,
+      "lines": 21
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/code/src/styles.css",
+      "bytes": 668,
+      "chars": 668,
+      "lines": 29
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/code/src/globe/index.ts",
+      "bytes": 4331,
+      "chars": 4331,
+      "lines": 140
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/code/src/main/index.ts",
+      "bytes": 10512,
+      "chars": 10512,
+      "lines": 344
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/code/src/plugins/TileCreasedNormalsPlugin.ts",
+      "bytes": 1377,
+      "chars": 1377,
+      "lines": 52
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/code/src/utils/celestialDirections.ts",
+      "bytes": 2288,
+      "chars": 2288,
+      "lines": 92
+    },
+    {
+      "path": "items/3d-webgl/geospatial-globe/code/src/worker/pool.ts",
+      "bytes": 942,
+      "chars": 942,
+      "lines": 35
+    },
+    {
+      "path": "items/3d-webgl/gpu-fluid-simulation/item.md",
+      "bytes": 5214,
+      "chars": 5190,
+      "lines": 101
+    },
+    {
+      "path": "items/3d-webgl/gpu-fluid-simulation/LICENSE",
+      "bytes": 1072,
+      "chars": 1072,
+      "lines": 21
+    },
+    {
+      "path": "items/3d-webgl/gpu-fluid-simulation/code/examples/common/wrapper.js",
+      "bytes": 5076,
+      "chars": 5076,
+      "lines": 169
+    },
+    {
+      "path": "items/3d-webgl/gpu-fluid-simulation/code/examples/fluid/index.js",
+      "bytes": 18412,
+      "chars": 18412,
+      "lines": 699
+    },
+    {
+      "path": "items/3d-webgl/pointer-square-lens-distortion/item.md",
+      "bytes": 2120,
+      "chars": 2106,
+      "lines": 53
+    },
+    {
+      "path": "items/3d-webgl/shader-lens-blur/item.md",
+      "bytes": 4070,
+      "chars": 4054,
+      "lines": 89
+    },
+    {
+      "path": "items/3d-webgl/shader-lens-blur/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/3d-webgl/shader-lens-blur/code/shader-lens-blur.tsx",
+      "bytes": 23831,
+      "chars": 23831,
+      "lines": 731
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/item.md",
+      "bytes": 6242,
+      "chars": 6212,
+      "lines": 107
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/main.js",
+      "bytes": 217,
+      "chars": 217,
+      "lines": 8
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/style.css",
+      "bytes": 607,
+      "chars": 607,
+      "lines": 42
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/core/Three.js",
+      "bytes": 1543,
+      "chars": 1543,
+      "lines": 70
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/core/WebGLContext.js",
+      "bytes": 1905,
+      "chars": 1905,
+      "lines": 78
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/scenes/Scene.js",
+      "bytes": 4806,
+      "chars": 4806,
+      "lines": 197
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/utils/collectDocumentCss.js",
+      "bytes": 2838,
+      "chars": 2834,
+      "lines": 93
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/utils/HtmlToCanvas.js",
+      "bytes": 2981,
+      "chars": 2981,
+      "lines": 100
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/utils/ImportGltf.js",
+      "bytes": 1828,
+      "chars": 1828,
+      "lines": 92
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/utils/ProjectedMaterial.js",
+      "bytes": 3588,
+      "chars": 3588,
+      "lines": 101
+    },
+    {
+      "path": "items/3d-webgl/three-html-to-canvas/code/src/utils/utils.js",
+      "bytes": 648,
+      "chars": 648,
+      "lines": 25
+    },
+    {
+      "path": "items/3d-webgl/webgl-typing-clouds/item.md",
+      "bytes": 3805,
+      "chars": 3785,
+      "lines": 81
+    },
+    {
+      "path": "items/3d-webgl/webgl-typing-clouds/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/3d-webgl/webgl-typing-clouds/code/css/base.css",
+      "bytes": 3612,
+      "chars": 3612,
+      "lines": 218
+    },
+    {
+      "path": "items/3d-webgl/webgl-typing-clouds/code/js/01_clouds.js",
+      "bytes": 12133,
+      "chars": 12133,
+      "lines": 381
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/item.md",
+      "bytes": 22705,
+      "chars": 22538,
+      "lines": 384
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/example.config.csv",
+      "bytes": 3296,
+      "chars": 3224,
+      "lines": 32
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/example.site.js",
+      "bytes": 2735,
+      "chars": 2714,
+      "lines": 75
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/init_excel.bat",
+      "bytes": 981,
+      "chars": 977,
+      "lines": 41
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/sync.py",
+      "bytes": 12918,
+      "chars": 12885,
+      "lines": 338
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/sync_init.py",
+      "bytes": 21323,
+      "chars": 19990,
+      "lines": 286
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/update_site.bat",
+      "bytes": 948,
+      "chars": 948,
+      "lines": 41
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/.github/workflows/sync.yml",
+      "bytes": 3260,
+      "chars": 2825,
+      "lines": 85
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/js/components.js",
+      "bytes": 6664,
+      "chars": 6649,
+      "lines": 51
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/js/main.js",
+      "bytes": 351,
+      "chars": 348,
+      "lines": 6
+    },
+    {
+      "path": "items/architecture/csv-json-content-pipeline/code/js/render.js",
+      "bytes": 11110,
+      "chars": 11090,
+      "lines": 134
+    },
+    {
+      "path": "items/backgrounds/animated-gradient/item.md",
+      "bytes": 3595,
+      "chars": 3583,
+      "lines": 81
+    },
+    {
+      "path": "items/backgrounds/animated-gradient/code/animated-gradient.tsx",
+      "bytes": 19219,
+      "chars": 19219,
+      "lines": 582
+    },
+    {
+      "path": "items/backgrounds/animated-gradient/code/webgl-error-boundary.tsx",
+      "bytes": 1380,
+      "chars": 1380,
+      "lines": 59
+    },
+    {
+      "path": "items/backgrounds/bg-media/item.md",
+      "bytes": 3470,
+      "chars": 3450,
+      "lines": 79
+    },
+    {
+      "path": "items/backgrounds/bg-media/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/backgrounds/bg-media/code/bg-media.tsx",
+      "bytes": 2779,
+      "chars": 2779,
+      "lines": 112
+    },
+    {
+      "path": "items/backgrounds/boids-ecosystem/item.md",
+      "bytes": 3535,
+      "chars": 3519,
+      "lines": 78
+    },
+    {
+      "path": "items/backgrounds/boids-ecosystem/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/backgrounds/boids-ecosystem/code/animata/background/boids-ecosystem.tsx",
+      "bytes": 7651,
+      "chars": 7651,
+      "lines": 256
+    },
+    {
+      "path": "items/backgrounds/boids-ecosystem/code/lib/utils.ts",
+      "bytes": 538,
+      "chars": 538,
+      "lines": 20
+    },
+    {
+      "path": "items/backgrounds/border-trail/item.md",
+      "bytes": 3313,
+      "chars": 3297,
+      "lines": 74
+    },
+    {
+      "path": "items/backgrounds/border-trail/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/backgrounds/border-trail/code/components/core/border-trail.tsx",
+      "bytes": 1183,
+      "chars": 1183,
+      "lines": 43
+    },
+    {
+      "path": "items/backgrounds/border-trail/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/backgrounds/dotted-map/item.md",
+      "bytes": 3216,
+      "chars": 3198,
+      "lines": 78
+    },
+    {
+      "path": "items/backgrounds/dotted-map/LICENSE",
+      "bytes": 1060,
+      "chars": 1060,
+      "lines": 21
+    },
+    {
+      "path": "items/backgrounds/dotted-map/code/dotted-map.tsx",
+      "bytes": 4972,
+      "chars": 4972,
+      "lines": 188
+    },
+    {
+      "path": "items/backgrounds/dotted-map/code/lib/utils.ts",
+      "bytes": 166,
+      "chars": 166,
+      "lines": 6
+    },
+    {
+      "path": "items/backgrounds/edge-blur/item.md",
+      "bytes": 2986,
+      "chars": 2968,
+      "lines": 72
+    },
+    {
+      "path": "items/backgrounds/edge-blur/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/backgrounds/edge-blur/code/edge-blur.tsx",
+      "bytes": 1161,
+      "chars": 1161,
+      "lines": 41
+    },
+    {
+      "path": "items/backgrounds/progressive-blur/item.md",
+      "bytes": 3090,
+      "chars": 3078,
+      "lines": 70
+    },
+    {
+      "path": "items/backgrounds/progressive-blur/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/backgrounds/progressive-blur/code/components/core/progressive-blur.tsx",
+      "bytes": 1676,
+      "chars": 1676,
+      "lines": 63
+    },
+    {
+      "path": "items/backgrounds/progressive-blur/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/feedback/animata-progress/item.md",
+      "bytes": 3371,
+      "chars": 3349,
+      "lines": 77
+    },
+    {
+      "path": "items/feedback/animata-progress/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/feedback/animata-progress/code/animata/graphs/progress.tsx",
+      "bytes": 1814,
+      "chars": 1814,
+      "lines": 53
+    },
+    {
+      "path": "items/feedback/animata-progress/code/lib/utils.ts",
+      "bytes": 538,
+      "chars": 538,
+      "lines": 20
+    },
+    {
+      "path": "items/feedback/intro-disclosure/item.md",
+      "bytes": 4043,
+      "chars": 4019,
+      "lines": 89
+    },
+    {
+      "path": "items/feedback/intro-disclosure/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/feedback/intro-disclosure/code/intro-disclosure.tsx",
+      "bytes": 20219,
+      "chars": 20219,
+      "lines": 676
+    },
+    {
+      "path": "items/feedback/morph-surface/item.md",
+      "bytes": 3979,
+      "chars": 3951,
+      "lines": 89
+    },
+    {
+      "path": "items/feedback/morph-surface/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/feedback/morph-surface/code/morph-surface.tsx",
+      "bytes": 17039,
+      "chars": 17035,
+      "lines": 692
+    },
+    {
+      "path": "items/feedback/onboarding/item.md",
+      "bytes": 4022,
+      "chars": 4002,
+      "lines": 87
+    },
+    {
+      "path": "items/feedback/onboarding/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/feedback/onboarding/code/onboarding.tsx",
+      "bytes": 23772,
+      "chars": 23768,
+      "lines": 885
+    },
+    {
+      "path": "items/feedback/split-reveal/item.md",
+      "bytes": 8767,
+      "chars": 8743,
+      "lines": 123
+    },
+    {
+      "path": "items/feedback/split-reveal/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal.css",
+      "bytes": 1373,
+      "chars": 1373,
+      "lines": 52
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal.tsx",
+      "bytes": 86,
+      "chars": 86,
+      "lines": 2
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/context.tsx",
+      "bytes": 784,
+      "chars": 784,
+      "lines": 26
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/execute-task.ts",
+      "bytes": 701,
+      "chars": 701,
+      "lines": 34
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/images.tsx",
+      "bytes": 773,
+      "chars": 773,
+      "lines": 32
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/index.tsx",
+      "bytes": 1913,
+      "chars": 1913,
+      "lines": 52
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/overlay.tsx",
+      "bytes": 996,
+      "chars": 996,
+      "lines": 45
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/preload-images.ts",
+      "bytes": 1078,
+      "chars": 1078,
+      "lines": 47
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/progress-count.tsx",
+      "bytes": 657,
+      "chars": 657,
+      "lines": 27
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/progress-slot.tsx",
+      "bytes": 473,
+      "chars": 473,
+      "lines": 18
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/progress-track.tsx",
+      "bytes": 546,
+      "chars": 546,
+      "lines": 23
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/progress.tsx",
+      "bytes": 1188,
+      "chars": 1188,
+      "lines": 39
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/root.tsx",
+      "bytes": 9344,
+      "chars": 9344,
+      "lines": 359
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/shutter.tsx",
+      "bytes": 613,
+      "chars": 613,
+      "lines": 29
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/task.tsx",
+      "bytes": 741,
+      "chars": 741,
+      "lines": 35
+    },
+    {
+      "path": "items/feedback/split-reveal/code/animata/preloader/split-reveal/types.ts",
+      "bytes": 1753,
+      "chars": 1753,
+      "lines": 63
+    },
+    {
+      "path": "items/feedback/split-reveal/code/hooks/use-lock-body.ts",
+      "bytes": 1335,
+      "chars": 1335,
+      "lines": 47
+    },
+    {
+      "path": "items/feedback/split-reveal/code/hooks/use-prefers-reduced-motion.ts",
+      "bytes": 838,
+      "chars": 838,
+      "lines": 26
+    },
+    {
+      "path": "items/feedback/split-reveal/code/lib/utils.ts",
+      "bytes": 538,
+      "chars": 538,
+      "lines": 20
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/item.md",
+      "bytes": 10656,
+      "chars": 10624,
+      "lines": 151
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/LICENSE",
+      "bytes": 1094,
+      "chars": 1094,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/main.js",
+      "bytes": 386,
+      "chars": 386,
+      "lines": 16
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/css/base.css",
+      "bytes": 4241,
+      "chars": 4241,
+      "lines": 241
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/css/canvas.css",
+      "bytes": 3955,
+      "chars": 3955,
+      "lines": 213
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/data/galleryData.js",
+      "bytes": 1805,
+      "chars": 1805,
+      "lines": 80
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Debug.js",
+      "bytes": 1289,
+      "chars": 1289,
+      "lines": 60
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Engine.js",
+      "bytes": 5507,
+      "chars": 5507,
+      "lines": 203
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Gallery.js",
+      "bytes": 15176,
+      "chars": 15174,
+      "lines": 519
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/index.js",
+      "bytes": 3217,
+      "chars": 3217,
+      "lines": 105
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Label.js",
+      "bytes": 6527,
+      "chars": 6527,
+      "lines": 213
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Scroll.js",
+      "bytes": 8547,
+      "chars": 8547,
+      "lines": 295
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Trail.js",
+      "bytes": 5473,
+      "chars": 5473,
+      "lines": 164
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/TrailController.js",
+      "bytes": 12660,
+      "chars": 12660,
+      "lines": 340
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/TrailHeadParticles.js",
+      "bytes": 4670,
+      "chars": 4670,
+      "lines": 147
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Background/index.js",
+      "bytes": 6583,
+      "chars": 6583,
+      "lines": 228
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Background/shaders/fragment.glsl",
+      "bytes": 1639,
+      "chars": 1639,
+      "lines": 51
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/Experience/Background/shaders/vertex.glsl",
+      "bytes": 92,
+      "chars": 92,
+      "lines": 6
+    },
+    {
+      "path": "items/gallery-carousel/feature-carousel/item.md",
+      "bytes": 3715,
+      "chars": 3693,
+      "lines": 84
+    },
+    {
+      "path": "items/gallery-carousel/feature-carousel/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/feature-carousel/code/feature-carousel.tsx",
+      "bytes": 21488,
+      "chars": 21488,
+      "lines": 734
+    },
+    {
+      "path": "items/gallery-carousel/fisheye-infinite-grid/item.md",
+      "bytes": 3316,
+      "chars": 3302,
+      "lines": 78
+    },
+    {
+      "path": "items/gallery-carousel/fisheye-infinite-grid/code/fisheye-infinite-grid.tsx",
+      "bytes": 25995,
+      "chars": 25993,
+      "lines": 821
+    },
+    {
+      "path": "items/gallery-carousel/liquid-morphology-slideshow/item.md",
+      "bytes": 4049,
+      "chars": 4029,
+      "lines": 83
+    },
+    {
+      "path": "items/gallery-carousel/liquid-morphology-slideshow/code/index.html",
+      "bytes": 427,
+      "chars": 417,
+      "lines": 11
+    },
+    {
+      "path": "items/gallery-carousel/liquid-morphology-slideshow/code/script.js",
+      "bytes": 64842,
+      "chars": 64842,
+      "lines": 1901
+    },
+    {
+      "path": "items/gallery-carousel/liquid-morphology-slideshow/code/style.css",
+      "bytes": 4251,
+      "chars": 4251,
+      "lines": 212
+    },
+    {
+      "path": "items/gallery-carousel/logo-carousel/item.md",
+      "bytes": 3327,
+      "chars": 3313,
+      "lines": 78
+    },
+    {
+      "path": "items/gallery-carousel/logo-carousel/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/logo-carousel/code/logo-carousel.tsx",
+      "bytes": 28208,
+      "chars": 28208,
+      "lines": 573
+    },
+    {
+      "path": "items/gallery-carousel/marquee-along-svg-path/item.md",
+      "bytes": 2949,
+      "chars": 2933,
+      "lines": 69
+    },
+    {
+      "path": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/marquee-along-svg-path/code/fancy/blocks/marquee-along-svg-path.tsx",
+      "bytes": 13369,
+      "chars": 13369,
+      "lines": 464
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/item.md",
+      "bytes": 9696,
+      "chars": 9657,
+      "lines": 140
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/index.css",
+      "bytes": 62,
+      "chars": 62,
+      "lines": 5
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/main.tsx",
+      "bytes": 1294,
+      "chars": 1294,
+      "lines": 31
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/components/Carousel.tsx",
+      "bytes": 2912,
+      "chars": 2912,
+      "lines": 101
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/components/GLImage.tsx",
+      "bytes": 2297,
+      "chars": 2297,
+      "lines": 71
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/components/Overlay.tsx",
+      "bytes": 3206,
+      "chars": 3206,
+      "lines": 69
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/constants/index.ts",
+      "bytes": 649,
+      "chars": 649,
+      "lines": 28
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/pages/Experiment1.tsx",
+      "bytes": 1242,
+      "chars": 1242,
+      "lines": 54
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/pages/Experiment2.tsx",
+      "bytes": 1318,
+      "chars": 1318,
+      "lines": 57
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/pages/Experiment3.tsx",
+      "bytes": 1546,
+      "chars": 1546,
+      "lines": 63
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/pages/Experiment4.tsx",
+      "bytes": 2085,
+      "chars": 2085,
+      "lines": 82
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/pages/Experiment5.tsx",
+      "bytes": 1428,
+      "chars": 1428,
+      "lines": 61
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/pages/Experiment6.tsx",
+      "bytes": 2302,
+      "chars": 2302,
+      "lines": 89
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/shaders/horizontal-image/fragment.glsl",
+      "bytes": 612,
+      "chars": 612,
+      "lines": 24
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/shaders/horizontal-image/vertex.glsl",
+      "bytes": 656,
+      "chars": 656,
+      "lines": 26
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/shaders/image/fragment.glsl",
+      "bytes": 612,
+      "chars": 612,
+      "lines": 24
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/shaders/image/vertex.glsl",
+      "bytes": 656,
+      "chars": 656,
+      "lines": 26
+    },
+    {
+      "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/utils/index.ts",
+      "bytes": 74,
+      "chars": 74,
+      "lines": 3
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/item.md",
+      "bytes": 7056,
+      "chars": 7030,
+      "lines": 116
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/index.html",
+      "bytes": 5618,
+      "chars": 5618,
+      "lines": 102
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/css/base.css",
+      "bytes": 5951,
+      "chars": 5951,
+      "lines": 379
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/js/navigation.js",
+      "bytes": 580,
+      "chars": 580,
+      "lines": 15
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/js/slide.js",
+      "bytes": 459,
+      "chars": 459,
+      "lines": 10
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/js/utils.js",
+      "bytes": 278,
+      "chars": 278,
+      "lines": 12
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/js/demo1/index.js",
+      "bytes": 1097,
+      "chars": 1097,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/js/demo1/slideshow.js",
+      "bytes": 6405,
+      "chars": 6405,
+      "lines": 171
+    },
+    {
+      "path": "items/gallery-carousel/simple-marquee/item.md",
+      "bytes": 2749,
+      "chars": 2737,
+      "lines": 69
+    },
+    {
+      "path": "items/gallery-carousel/simple-marquee/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/gallery-carousel/simple-marquee/code/fancy/blocks/simple-marquee.tsx",
+      "bytes": 9337,
+      "chars": 9337,
+      "lines": 273
+    },
+    {
+      "path": "items/gallery-carousel/spiral-3d-slider/item.md",
+      "bytes": 4061,
+      "chars": 4049,
+      "lines": 88
+    },
+    {
+      "path": "items/gallery-carousel/spiral-3d-slider/code/spiral-3d-slider.tsx",
+      "bytes": 12217,
+      "chars": 12217,
+      "lines": 412
+    },
+    {
+      "path": "items/gallery-carousel/spiral-3d-slider/code/webgl-error-boundary.tsx",
+      "bytes": 1380,
+      "chars": 1380,
+      "lines": 59
+    },
+    {
+      "path": "items/hover-cursor/hover-transition/item.md",
+      "bytes": 3645,
+      "chars": 3629,
+      "lines": 81
+    },
+    {
+      "path": "items/hover-cursor/hover-transition/code/hover-transition.tsx",
+      "bytes": 16806,
+      "chars": 16806,
+      "lines": 559
+    },
+    {
+      "path": "items/hover-cursor/hover-video-player/item.md",
+      "bytes": 3877,
+      "chars": 3859,
+      "lines": 90
+    },
+    {
+      "path": "items/hover-cursor/hover-video-player/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/hover-cursor/hover-video-player/code/hover-video-player.tsx",
+      "bytes": 29829,
+      "chars": 29829,
+      "lines": 1139
+    },
+    {
+      "path": "items/hover-cursor/mp-cursor/item.md",
+      "bytes": 3780,
+      "chars": 3762,
+      "lines": 81
+    },
+    {
+      "path": "items/hover-cursor/mp-cursor/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/hover-cursor/mp-cursor/code/components/core/cursor.tsx",
+      "bytes": 3381,
+      "chars": 3381,
+      "lines": 134
+    },
+    {
+      "path": "items/hover-cursor/mp-cursor/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/hover-cursor/pixel-image-trail/item.md",
+      "bytes": 3587,
+      "chars": 3577,
+      "lines": 80
+    },
+    {
+      "path": "items/hover-cursor/pixel-image-trail/code/pixel-image-trail.tsx",
+      "bytes": 10992,
+      "chars": 10992,
+      "lines": 373
+    },
+    {
+      "path": "items/image-treatment/ascii-effect/item.md",
+      "bytes": 3814,
+      "chars": 3798,
+      "lines": 86
+    },
+    {
+      "path": "items/image-treatment/ascii-effect/code/ascii-effect.tsx",
+      "bytes": 14202,
+      "chars": 14202,
+      "lines": 371
+    },
+    {
+      "path": "items/image-treatment/canvas-grid-mouse-effect/item.md",
+      "bytes": 3450,
+      "chars": 3430,
+      "lines": 73
+    },
+    {
+      "path": "items/image-treatment/canvas-grid-mouse-effect/code/index.html",
+      "bytes": 53,
+      "chars": 53,
+      "lines": 3
+    },
+    {
+      "path": "items/image-treatment/canvas-grid-mouse-effect/code/script.js",
+      "bytes": 3412,
+      "chars": 3412,
+      "lines": 113
+    },
+    {
+      "path": "items/image-treatment/canvas-grid-mouse-effect/code/style.css",
+      "bytes": 606,
+      "chars": 606,
+      "lines": 40
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/item.md",
+      "bytes": 7820,
+      "chars": 7782,
+      "lines": 134
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/LICENSE",
+      "bytes": 1051,
+      "chars": 1051,
+      "lines": 7
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index.html",
+      "bytes": 3643,
+      "chars": 3643,
+      "lines": 93
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index2.html",
+      "bytes": 3614,
+      "chars": 3614,
+      "lines": 94
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index3.html",
+      "bytes": 3725,
+      "chars": 3725,
+      "lines": 96
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index4.html",
+      "bytes": 4109,
+      "chars": 4109,
+      "lines": 107
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index5.html",
+      "bytes": 4084,
+      "chars": 4084,
+      "lines": 107
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index6.html",
+      "bytes": 4086,
+      "chars": 4086,
+      "lines": 107
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/index7.html",
+      "bytes": 3872,
+      "chars": 3872,
+      "lines": 101
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/common.css",
+      "bytes": 310,
+      "chars": 310,
+      "lines": 25
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/demo.css",
+      "bytes": 3624,
+      "chars": 3624,
+      "lines": 142
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/normalize.css",
+      "bytes": 9411,
+      "chars": 9411,
+      "lines": 512
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style.css",
+      "bytes": 2344,
+      "chars": 2344,
+      "lines": 117
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style2.css",
+      "bytes": 2165,
+      "chars": 2165,
+      "lines": 111
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style3.css",
+      "bytes": 4236,
+      "chars": 4236,
+      "lines": 165
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style4.css",
+      "bytes": 3008,
+      "chars": 3008,
+      "lines": 147
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style5.css",
+      "bytes": 2558,
+      "chars": 2558,
+      "lines": 136
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style6.css",
+      "bytes": 2911,
+      "chars": 2911,
+      "lines": 146
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/css/style7.css",
+      "bytes": 2894,
+      "chars": 2894,
+      "lines": 125
+    },
+    {
+      "path": "items/image-treatment/circle-caption-reveal/code/js/modernizr.custom.79639.js",
+      "bytes": 4854,
+      "chars": 4854,
+      "lines": 4
+    },
+    {
+      "path": "items/image-treatment/dithered-logo/item.md",
+      "bytes": 3585,
+      "chars": 3569,
+      "lines": 83
+    },
+    {
+      "path": "items/image-treatment/dithered-logo/code/dithered-logo.tsx",
+      "bytes": 18901,
+      "chars": 18901,
+      "lines": 717
+    },
+    {
+      "path": "items/image-treatment/image-comparison/item.md",
+      "bytes": 3137,
+      "chars": 3121,
+      "lines": 71
+    },
+    {
+      "path": "items/image-treatment/image-comparison/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/image-treatment/image-comparison/code/components/core/image-comparison.tsx",
+      "bytes": 3606,
+      "chars": 3606,
+      "lines": 147
+    },
+    {
+      "path": "items/image-treatment/image-comparison/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/item.md",
+      "bytes": 6564,
+      "chars": 6532,
+      "lines": 119
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/code/index.html",
+      "bytes": 7202,
+      "chars": 7202,
+      "lines": 98
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/code/css/base.css",
+      "bytes": 4507,
+      "chars": 4507,
+      "lines": 271
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/code/js/content.js",
+      "bytes": 5663,
+      "chars": 5663,
+      "lines": 202
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/code/js/index.js",
+      "bytes": 846,
+      "chars": 846,
+      "lines": 31
+    },
+    {
+      "path": "items/image-treatment/image-pixel-loading/code/js/utils.js",
+      "bytes": 233,
+      "chars": 233,
+      "lines": 10
+    },
+    {
+      "path": "items/image-treatment/image-ripple-effect/item.md",
+      "bytes": 5546,
+      "chars": 5527,
+      "lines": 109
+    },
+    {
+      "path": "items/image-treatment/image-ripple-effect/code/image-ripple-effect.tsx",
+      "bytes": 13746,
+      "chars": 13746,
+      "lines": 471
+    },
+    {
+      "path": "items/image-treatment/image-ripple-effect/code/webgl-error-boundary.tsx",
+      "bytes": 1380,
+      "chars": 1380,
+      "lines": 59
+    },
+    {
+      "path": "items/image-treatment/images-reveal/item.md",
+      "bytes": 2807,
+      "chars": 2788,
+      "lines": 69
+    },
+    {
+      "path": "items/image-treatment/images-reveal/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/image-treatment/images-reveal/code/animata/image/images-reveal.tsx",
+      "bytes": 2386,
+      "chars": 2386,
+      "lines": 73
+    },
+    {
+      "path": "items/image-treatment/parallax-floating/item.md",
+      "bytes": 3345,
+      "chars": 3323,
+      "lines": 76
+    },
+    {
+      "path": "items/image-treatment/parallax-floating/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/image-treatment/parallax-floating/code/fancy/image/parallax-floating.tsx",
+      "bytes": 3231,
+      "chars": 3231,
+      "lines": 134
+    },
+    {
+      "path": "items/image-treatment/parallax-floating/code/hooks/use-mouse-position-ref.ts",
+      "bytes": 1279,
+      "chars": 1279,
+      "lines": 42
+    },
+    {
+      "path": "items/image-treatment/relighting-images/item.md",
+      "bytes": 10900,
+      "chars": 10858,
+      "lines": 158
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/demo2.html",
+      "bytes": 1331,
+      "chars": 1329,
+      "lines": 33
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/demo3.html",
+      "bytes": 1331,
+      "chars": 1329,
+      "lines": 33
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/index.html",
+      "bytes": 1320,
+      "chars": 1320,
+      "lines": 33
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/app.js",
+      "bytes": 1425,
+      "chars": 1425,
+      "lines": 59
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/debug.js",
+      "bytes": 1166,
+      "chars": 1166,
+      "lines": 44
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/demos.js",
+      "bytes": 1510,
+      "chars": 1510,
+      "lines": 55
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/style.css",
+      "bytes": 1290,
+      "chars": 1290,
+      "lines": 101
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/depth-map.js",
+      "bytes": 2093,
+      "chars": 2093,
+      "lines": 78
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/light.js",
+      "bytes": 1271,
+      "chars": 1271,
+      "lines": 36
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/plane.js",
+      "bytes": 1002,
+      "chars": 1002,
+      "lines": 32
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/textures.js",
+      "bytes": 699,
+      "chars": 699,
+      "lines": 26
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/nodes/diffuse.js",
+      "bytes": 360,
+      "chars": 360,
+      "lines": 11
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/nodes/normal.js",
+      "bytes": 2169,
+      "chars": 2169,
+      "lines": 74
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/nodes/shadow.js",
+      "bytes": 2024,
+      "chars": 2024,
+      "lines": 66
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/effect/nodes/texture-fit.js",
+      "bytes": 560,
+      "chars": 560,
+      "lines": 19
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/src/lib/blur.js",
+      "bytes": 1213,
+      "chars": 1213,
+      "lines": 37
+    },
+    {
+      "path": "items/layout-blocks/bento-grid-gradient/item.md",
+      "bytes": 3899,
+      "chars": 3879,
+      "lines": 81
+    },
+    {
+      "path": "items/layout-blocks/bento-grid-gradient/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/layout-blocks/bento-grid-gradient/code/animata/background/moving-gradient.tsx",
+      "bytes": 962,
+      "chars": 962,
+      "lines": 34
+    },
+    {
+      "path": "items/layout-blocks/bento-grid-gradient/code/animata/bento-grid/gradient.tsx",
+      "bytes": 4219,
+      "chars": 4219,
+      "lines": 137
+    },
+    {
+      "path": "items/layout-blocks/bento-grid-gradient/code/lib/utils.ts",
+      "bytes": 538,
+      "chars": 538,
+      "lines": 20
+    },
+    {
+      "path": "items/layout-blocks/hero-dithering/item.md",
+      "bytes": 6500,
+      "chars": 6461,
+      "lines": 128
+    },
+    {
+      "path": "items/layout-blocks/hero-dithering/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/layout-blocks/hero-dithering/code/hero-dithering.tsx",
+      "bytes": 18730,
+      "chars": 18730,
+      "lines": 724
+    },
+    {
+      "path": "items/layout-blocks/hero-heatmap/item.md",
+      "bytes": 6026,
+      "chars": 5987,
+      "lines": 126
+    },
+    {
+      "path": "items/layout-blocks/hero-heatmap/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/layout-blocks/hero-heatmap/code/hero-heatmap.tsx",
+      "bytes": 20354,
+      "chars": 20354,
+      "lines": 787
+    },
+    {
+      "path": "items/layout-blocks/hero-liquid-metal/item.md",
+      "bytes": 5232,
+      "chars": 5202,
+      "lines": 106
+    },
+    {
+      "path": "items/layout-blocks/hero-liquid-metal/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/layout-blocks/hero-liquid-metal/code/hero-liquid-metal.tsx",
+      "bytes": 22036,
+      "chars": 22036,
+      "lines": 815
+    },
+    {
+      "path": "items/layout-blocks/layered-stack/item.md",
+      "bytes": 3296,
+      "chars": 3276,
+      "lines": 78
+    },
+    {
+      "path": "items/layout-blocks/layered-stack/code/layered-stack.tsx",
+      "bytes": 3804,
+      "chars": 3804,
+      "lines": 132
+    },
+    {
+      "path": "items/layout-blocks/mock-browser-window/item.md",
+      "bytes": 3524,
+      "chars": 3502,
+      "lines": 78
+    },
+    {
+      "path": "items/layout-blocks/mock-browser-window/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/layout-blocks/mock-browser-window/code/mock-browser-window.tsx",
+      "bytes": 10780,
+      "chars": 10780,
+      "lines": 361
+    },
+    {
+      "path": "items/layout-blocks/mock-browser-window/code/texture-overlay.tsx",
+      "bytes": 3178,
+      "chars": 3178,
+      "lines": 83
+    },
+    {
+      "path": "items/navigation/dock/item.md",
+      "bytes": 6629,
+      "chars": 6587,
+      "lines": 125
+    },
+    {
+      "path": "items/navigation/dock/code/components/core/dock.tsx",
+      "bytes": 5625,
+      "chars": 5625,
+      "lines": 226
+    },
+    {
+      "path": "items/navigation/dock/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/navigation/ease-reverse-clip-menu/item.md",
+      "bytes": 6799,
+      "chars": 6773,
+      "lines": 127
+    },
+    {
+      "path": "items/navigation/ease-reverse-clip-menu/LICENSE",
+      "bytes": 1094,
+      "chars": 1094,
+      "lines": 21
+    },
+    {
+      "path": "items/navigation/ease-reverse-clip-menu/code/index.html",
+      "bytes": 5278,
+      "chars": 5277,
+      "lines": 124
+    },
+    {
+      "path": "items/navigation/ease-reverse-clip-menu/code/css/base.css",
+      "bytes": 8131,
+      "chars": 8131,
+      "lines": 434
+    },
+    {
+      "path": "items/navigation/ease-reverse-clip-menu/code/js/index.js",
+      "bytes": 7800,
+      "chars": 7799,
+      "lines": 282
+    },
+    {
+      "path": "items/navigation/ease-reverse-clip-menu/code/js/utils.js",
+      "bytes": 2155,
+      "chars": 2155,
+      "lines": 90
+    },
+    {
+      "path": "items/navigation/hover-grid/item.md",
+      "bytes": 4892,
+      "chars": 4866,
+      "lines": 97
+    },
+    {
+      "path": "items/navigation/hover-grid/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/navigation/hover-grid/code/index.html",
+      "bytes": 5929,
+      "chars": 5929,
+      "lines": 93
+    },
+    {
+      "path": "items/navigation/hover-grid/code/css/base.css",
+      "bytes": 6910,
+      "chars": 6910,
+      "lines": 401
+    },
+    {
+      "path": "items/navigation/hover-grid/code/js/index.js",
+      "bytes": 5716,
+      "chars": 5716,
+      "lines": 165
+    },
+    {
+      "path": "items/navigation/hover-grid/code/js/utils.js",
+      "bytes": 509,
+      "chars": 509,
+      "lines": 12
+    },
+    {
+      "path": "items/navigation/toolbar-expandable/item.md",
+      "bytes": 3886,
+      "chars": 3870,
+      "lines": 85
+    },
+    {
+      "path": "items/navigation/toolbar-expandable/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/navigation/toolbar-expandable/code/toolbar-expandable.tsx",
+      "bytes": 20971,
+      "chars": 20971,
+      "lines": 681
+    },
+    {
+      "path": "items/primitives/bg-animate-button/item.md",
+      "bytes": 4159,
+      "chars": 4133,
+      "lines": 88
+    },
+    {
+      "path": "items/primitives/bg-animate-button/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/primitives/bg-animate-button/code/bg-animate-button.tsx",
+      "bytes": 5784,
+      "chars": 5784,
+      "lines": 176
+    },
+    {
+      "path": "items/primitives/button-hover-styles/item.md",
+      "bytes": 2781,
+      "chars": 2765,
+      "lines": 67
+    },
+    {
+      "path": "items/primitives/button-hover-styles/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/primitives/button-hover-styles/code/css/base.css",
+      "bytes": 22922,
+      "chars": 22922,
+      "lines": 1195
+    },
+    {
+      "path": "items/primitives/floating-panel/item.md",
+      "bytes": 3751,
+      "chars": 3733,
+      "lines": 84
+    },
+    {
+      "path": "items/primitives/floating-panel/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/primitives/floating-panel/code/floating-panel.tsx",
+      "bytes": 23826,
+      "chars": 23826,
+      "lines": 948
+    },
+    {
+      "path": "items/primitives/mp-dialog/item.md",
+      "bytes": 6606,
+      "chars": 6576,
+      "lines": 129
+    },
+    {
+      "path": "items/primitives/mp-dialog/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/primitives/mp-dialog/code/components/core/dialog.tsx",
+      "bytes": 8279,
+      "chars": 8279,
+      "lines": 335
+    },
+    {
+      "path": "items/primitives/mp-dialog/code/hooks/usePreventScroll.tsx",
+      "bytes": 12254,
+      "chars": 12245,
+      "lines": 362
+    },
+    {
+      "path": "items/primitives/mp-dialog/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/scroll/continuous-sections-observer/item.md",
+      "bytes": 3772,
+      "chars": 3748,
+      "lines": 81
+    },
+    {
+      "path": "items/scroll/continuous-sections-observer/code/index.html",
+      "bytes": 1274,
+      "chars": 1274,
+      "lines": 54
+    },
+    {
+      "path": "items/scroll/continuous-sections-observer/code/script.js",
+      "bytes": 2125,
+      "chars": 2125,
+      "lines": 67
+    },
+    {
+      "path": "items/scroll/continuous-sections-observer/code/style.css",
+      "bytes": 2043,
+      "chars": 2043,
+      "lines": 97
+    },
+    {
+      "path": "items/scroll/elastic-grid-scroll/item.md",
+      "bytes": 5799,
+      "chars": 5763,
+      "lines": 108
+    },
+    {
+      "path": "items/scroll/elastic-grid-scroll/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/scroll/elastic-grid-scroll/code/index.html",
+      "bytes": 28086,
+      "chars": 28086,
+      "lines": 524
+    },
+    {
+      "path": "items/scroll/elastic-grid-scroll/code/css/base.css",
+      "bytes": 4902,
+      "chars": 4902,
+      "lines": 297
+    },
+    {
+      "path": "items/scroll/elastic-grid-scroll/code/js/utils.js",
+      "bytes": 579,
+      "chars": 579,
+      "lines": 17
+    },
+    {
+      "path": "items/scroll/elastic-grid-scroll/code/js/demo1/index.js",
+      "bytes": 4910,
+      "chars": 4790,
+      "lines": 135
+    },
+    {
+      "path": "items/scroll/horizontal-clip-path-scroll/item.md",
+      "bytes": 3659,
+      "chars": 3637,
+      "lines": 78
+    },
+    {
+      "path": "items/scroll/horizontal-clip-path-scroll/code/index.html",
+      "bytes": 19032,
+      "chars": 19032,
+      "lines": 227
+    },
+    {
+      "path": "items/scroll/horizontal-clip-path-scroll/code/script.js",
+      "bytes": 5518,
+      "chars": 5518,
+      "lines": 187
+    },
+    {
+      "path": "items/scroll/horizontal-clip-path-scroll/code/style.css",
+      "bytes": 6945,
+      "chars": 6945,
+      "lines": 405
+    },
+    {
+      "path": "items/scroll/onscroll-clipped-sections/item.md",
+      "bytes": 2995,
+      "chars": 2977,
+      "lines": 67
+    },
+    {
+      "path": "items/scroll/parallax-image-layers/item.md",
+      "bytes": 3173,
+      "chars": 3151,
+      "lines": 71
+    },
+    {
+      "path": "items/scroll/parallax-image-layers/code/index.html",
+      "bytes": 2284,
+      "chars": 2284,
+      "lines": 27
+    },
+    {
+      "path": "items/scroll/parallax-image-layers/code/script.js",
+      "bytes": 1059,
+      "chars": 1059,
+      "lines": 38
+    },
+    {
+      "path": "items/scroll/parallax-image-layers/code/style.css",
+      "bytes": 4799,
+      "chars": 4799,
+      "lines": 235
+    },
+    {
+      "path": "items/scroll/scroll-choreography/item.md",
+      "bytes": 2799,
+      "chars": 2787,
+      "lines": 69
+    },
+    {
+      "path": "items/scroll/scroll-choreography/code/scroll-choreography.tsx",
+      "bytes": 4512,
+      "chars": 4512,
+      "lines": 116
+    },
+    {
+      "path": "items/scroll/scroll-split-card/item.md",
+      "bytes": 3180,
+      "chars": 3170,
+      "lines": 79
+    },
+    {
+      "path": "items/scroll/scroll-split-card/code/scroll-split-card.tsx",
+      "bytes": 6943,
+      "chars": 6943,
+      "lines": 171
+    },
+    {
+      "path": "items/scroll/scroll-synced-video-keyhole/item.md",
+      "bytes": 4298,
+      "chars": 4270,
+      "lines": 85
+    },
+    {
+      "path": "items/scroll/scroll-synced-video-keyhole/code/index.html",
+      "bytes": 8649,
+      "chars": 8639,
+      "lines": 153
+    },
+    {
+      "path": "items/scroll/scroll-synced-video-keyhole/code/script.js",
+      "bytes": 20153,
+      "chars": 20153,
+      "lines": 636
+    },
+    {
+      "path": "items/scroll/scroll-synced-video-keyhole/code/style.css",
+      "bytes": 10025,
+      "chars": 10025,
+      "lines": 461
+    },
+    {
+      "path": "items/scroll/scroll-tilted-grid/item.md",
+      "bytes": 3192,
+      "chars": 3178,
+      "lines": 78
+    },
+    {
+      "path": "items/scroll/scroll-tilted-grid/code/scroll-tilted-grid.tsx",
+      "bytes": 6812,
+      "chars": 6812,
+      "lines": 238
+    },
+    {
+      "path": "items/scroll/scrolltrigger-image-zoom/item.md",
+      "bytes": 3511,
+      "chars": 3489,
+      "lines": 77
+    },
+    {
+      "path": "items/scroll/scrolltrigger-image-zoom/code/index.html",
+      "bytes": 282,
+      "chars": 282,
+      "lines": 8
+    },
+    {
+      "path": "items/scroll/scrolltrigger-image-zoom/code/script.js",
+      "bytes": 577,
+      "chars": 577,
+      "lines": 32
+    },
+    {
+      "path": "items/scroll/scrolltrigger-image-zoom/code/style.css",
+      "bytes": 818,
+      "chars": 818,
+      "lines": 47
+    },
+    {
+      "path": "items/scroll/stacked-sections/item.md",
+      "bytes": 5200,
+      "chars": 5172,
+      "lines": 102
+    },
+    {
+      "path": "items/scroll/stacked-sections/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/scroll/stacked-sections/code/animata/scroll/stacked-sections.css",
+      "bytes": 105,
+      "chars": 105,
+      "lines": 5
+    },
+    {
+      "path": "items/scroll/stacked-sections/code/animata/scroll/stacked-sections.tsx",
+      "bytes": 6643,
+      "chars": 6641,
+      "lines": 226
+    },
+    {
+      "path": "items/scroll/stacked-sections/code/lib/utils.ts",
+      "bytes": 538,
+      "chars": 538,
+      "lines": 20
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/item.md",
+      "bytes": 8312,
+      "chars": 8286,
+      "lines": 125
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/LICENSE",
+      "bytes": 1165,
+      "chars": 1165,
+      "lines": 22
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/src/index.html",
+      "bytes": 4033,
+      "chars": 4033,
+      "lines": 98
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/src/scripts/index.js",
+      "bytes": 10129,
+      "chars": 10129,
+      "lines": 280
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/src/scripts/utils.js",
+      "bytes": 628,
+      "chars": 628,
+      "lines": 19
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/src/styles/base.css",
+      "bytes": 3714,
+      "chars": 3714,
+      "lines": 226
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/src/styles/index.css",
+      "bytes": 2240,
+      "chars": 2240,
+      "lines": 130
+    },
+    {
+      "path": "items/scroll/sticky-sections/item.md",
+      "bytes": 4589,
+      "chars": 4563,
+      "lines": 95
+    },
+    {
+      "path": "items/scroll/sticky-sections/LICENSE",
+      "bytes": 1051,
+      "chars": 1051,
+      "lines": 7
+    },
+    {
+      "path": "items/scroll/sticky-sections/code/index.html",
+      "bytes": 5578,
+      "chars": 5578,
+      "lines": 94
+    },
+    {
+      "path": "items/scroll/sticky-sections/code/css/base.css",
+      "bytes": 9312,
+      "chars": 9312,
+      "lines": 499
+    },
+    {
+      "path": "items/scroll/sticky-sections/code/js/utils.js",
+      "bytes": 589,
+      "chars": 589,
+      "lines": 17
+    },
+    {
+      "path": "items/scroll/sticky-sections/code/js/demo1/index.js",
+      "bytes": 2241,
+      "chars": 2241,
+      "lines": 74
+    },
+    {
+      "path": "items/scroll/telescope-zoom/item.md",
+      "bytes": 8269,
+      "chars": 8237,
+      "lines": 133
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/index.html",
+      "bytes": 3218,
+      "chars": 3218,
+      "lines": 83
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/src/base.css",
+      "bytes": 2802,
+      "chars": 2802,
+      "lines": 179
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/src/main.js",
+      "bytes": 1873,
+      "chars": 1873,
+      "lines": 86
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/src/style.css",
+      "bytes": 3278,
+      "chars": 3278,
+      "lines": 210
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/src/utils.js",
+      "bytes": 621,
+      "chars": 621,
+      "lines": 21
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/item.md",
+      "bytes": 8394,
+      "chars": 8366,
+      "lines": 124
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/index.html",
+      "bytes": 4263,
+      "chars": 4263,
+      "lines": 140
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/js/components/GL.js",
+      "bytes": 3025,
+      "chars": 3025,
+      "lines": 126
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/js/components/Media.js",
+      "bytes": 2743,
+      "chars": 2743,
+      "lines": 99
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/js/pages/index.js",
+      "bytes": 944,
+      "chars": 944,
+      "lines": 37
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/js/util/util.js",
+      "bytes": 18,
+      "chars": 18,
+      "lines": 2
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/shaders/fragment.glsl",
+      "bytes": 2021,
+      "chars": 2021,
+      "lines": 65
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/shaders/vertex.glsl",
+      "bytes": 252,
+      "chars": 252,
+      "lines": 15
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/grid.scss",
+      "bytes": 46,
+      "chars": 46,
+      "lines": 5
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/index.scss",
+      "bytes": 709,
+      "chars": 709,
+      "lines": 45
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/components/frame.scss",
+      "bytes": 975,
+      "chars": 975,
+      "lines": 56
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/components/gl.scss",
+      "bytes": 119,
+      "chars": 119,
+      "lines": 9
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/components/index.scss",
+      "bytes": 78,
+      "chars": 78,
+      "lines": 3
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/components/media-container.scss",
+      "bytes": 344,
+      "chars": 344,
+      "lines": 20
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/pages/index.scss",
+      "bytes": 3109,
+      "chars": 3109,
+      "lines": 174
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/util/index.scss",
+      "bytes": 42,
+      "chars": 42,
+      "lines": 2
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/util/_mixins.scss",
+      "bytes": 378,
+      "chars": 378,
+      "lines": 20
+    },
+    {
+      "path": "items/scroll/webgl-progressive-blur/code/src/styles/util/_variables.scss",
+      "bytes": 191,
+      "chars": 191,
+      "lines": 9
+    },
+    {
+      "path": "items/text-effects/annotated-text/item.md",
+      "bytes": 3530,
+      "chars": 3514,
+      "lines": 84
+    },
+    {
+      "path": "items/text-effects/annotated-text/code/annotated-text.tsx",
+      "bytes": 15871,
+      "chars": 15871,
+      "lines": 560
+    },
+    {
+      "path": "items/text-effects/blur-out-up/item.md",
+      "bytes": 4902,
+      "chars": 4878,
+      "lines": 94
+    },
+    {
+      "path": "items/text-effects/blur-out-up/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/blur-out-up/code/animata/text/blur-out-up.tsx",
+      "bytes": 2680,
+      "chars": 2680,
+      "lines": 116
+    },
+    {
+      "path": "items/text-effects/blur-out-up/code/animata/text/text-animator-demo.ts",
+      "bytes": 608,
+      "chars": 604,
+      "lines": 8
+    },
+    {
+      "path": "items/text-effects/blur-out-up/code/animata/text/text-animator.css",
+      "bytes": 857,
+      "chars": 857,
+      "lines": 35
+    },
+    {
+      "path": "items/text-effects/blur-out-up/code/animata/text/text-animator.tsx",
+      "bytes": 32031,
+      "chars": 32031,
+      "lines": 1009
+    },
+    {
+      "path": "items/text-effects/cursor-driven-particle-typography/item.md",
+      "bytes": 3469,
+      "chars": 3457,
+      "lines": 75
+    },
+    {
+      "path": "items/text-effects/cursor-driven-particle-typography/code/cursor-driven-particle-typography.tsx",
+      "bytes": 9383,
+      "chars": 9383,
+      "lines": 284
+    },
+    {
+      "path": "items/text-effects/hyper-text/item.md",
+      "bytes": 4787,
+      "chars": 4761,
+      "lines": 99
+    },
+    {
+      "path": "items/text-effects/hyper-text/LICENSE",
+      "bytes": 1060,
+      "chars": 1060,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/hyper-text/code/hyper-text.tsx",
+      "bytes": 4715,
+      "chars": 4715,
+      "lines": 185
+    },
+    {
+      "path": "items/text-effects/hyper-text/code/lib/utils.ts",
+      "bytes": 166,
+      "chars": 166,
+      "lines": 6
+    },
+    {
+      "path": "items/text-effects/letter-swap-forward/item.md",
+      "bytes": 3046,
+      "chars": 3028,
+      "lines": 72
+    },
+    {
+      "path": "items/text-effects/letter-swap-forward/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/letter-swap-forward/code/fancy/text/letter-swap-forward-anim.tsx",
+      "bytes": 2457,
+      "chars": 2457,
+      "lines": 115
+    },
+    {
+      "path": "items/text-effects/letter-swap-pingpong/item.md",
+      "bytes": 2315,
+      "chars": 2305,
+      "lines": 59
+    },
+    {
+      "path": "items/text-effects/letter-swap-pingpong/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/letter-swap-pingpong/code/fancy/text/letter-swap-pingpong-anim.tsx",
+      "bytes": 2588,
+      "chars": 2588,
+      "lines": 121
+    },
+    {
+      "path": "items/text-effects/mask-reveal-up/item.md",
+      "bytes": 3146,
+      "chars": 3132,
+      "lines": 68
+    },
+    {
+      "path": "items/text-effects/mask-reveal-up/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/mask-reveal-up/code/animata/text/mask-reveal-up.tsx",
+      "bytes": 2694,
+      "chars": 2694,
+      "lines": 116
+    },
+    {
+      "path": "items/text-effects/mask-reveal-up/code/animata/text/text-animator-demo.ts",
+      "bytes": 608,
+      "chars": 604,
+      "lines": 8
+    },
+    {
+      "path": "items/text-effects/mask-reveal-up/code/animata/text/text-animator.css",
+      "bytes": 857,
+      "chars": 857,
+      "lines": 35
+    },
+    {
+      "path": "items/text-effects/mask-reveal-up/code/animata/text/text-animator.tsx",
+      "bytes": 32031,
+      "chars": 32031,
+      "lines": 1009
+    },
+    {
+      "path": "items/text-effects/pixel-heading-character/item.md",
+      "bytes": 4182,
+      "chars": 4158,
+      "lines": 91
+    },
+    {
+      "path": "items/text-effects/pixel-heading-character/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/pixel-heading-character/code/pixel-heading-character.tsx",
+      "bytes": 17023,
+      "chars": 16835,
+      "lines": 585
+    },
+    {
+      "path": "items/text-effects/random-letter-swap-forward/item.md",
+      "bytes": 2320,
+      "chars": 2308,
+      "lines": 60
+    },
+    {
+      "path": "items/text-effects/random-letter-swap-forward/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/random-letter-swap-forward/code/fancy/text/random-letter-swap-forward-anim.tsx",
+      "bytes": 2992,
+      "chars": 2992,
+      "lines": 131
+    },
+    {
+      "path": "items/text-effects/random-letter-swap-pingpong/item.md",
+      "bytes": 2205,
+      "chars": 2199,
+      "lines": 56
+    },
+    {
+      "path": "items/text-effects/random-letter-swap-pingpong/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/random-letter-swap-pingpong/code/fancy/text/random-letter-swap-pingpong-anim.tsx",
+      "bytes": 2996,
+      "chars": 2996,
+      "lines": 133
+    },
+    {
+      "path": "items/text-effects/short-slide-down/item.md",
+      "bytes": 3346,
+      "chars": 3330,
+      "lines": 71
+    },
+    {
+      "path": "items/text-effects/short-slide-down/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/short-slide-down/code/animata/text/short-slide-down.tsx",
+      "bytes": 2794,
+      "chars": 2794,
+      "lines": 122
+    },
+    {
+      "path": "items/text-effects/short-slide-down/code/animata/text/text-animator-demo.ts",
+      "bytes": 608,
+      "chars": 604,
+      "lines": 8
+    },
+    {
+      "path": "items/text-effects/short-slide-down/code/animata/text/text-animator.css",
+      "bytes": 857,
+      "chars": 857,
+      "lines": 35
+    },
+    {
+      "path": "items/text-effects/short-slide-down/code/animata/text/text-animator.tsx",
+      "bytes": 32031,
+      "chars": 32031,
+      "lines": 1009
+    },
+    {
+      "path": "items/text-effects/signature/item.md",
+      "bytes": 4465,
+      "chars": 4441,
+      "lines": 95
+    },
+    {
+      "path": "items/text-effects/signature/code/signature.tsx",
+      "bytes": 4665,
+      "chars": 4665,
+      "lines": 174
+    },
+    {
+      "path": "items/text-effects/soft-blur-in/item.md",
+      "bytes": 3695,
+      "chars": 3677,
+      "lines": 75
+    },
+    {
+      "path": "items/text-effects/soft-blur-in/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/soft-blur-in/code/animata/text/soft-blur-in.tsx",
+      "bytes": 2649,
+      "chars": 2649,
+      "lines": 115
+    },
+    {
+      "path": "items/text-effects/soft-blur-in/code/animata/text/text-animator-demo.ts",
+      "bytes": 608,
+      "chars": 604,
+      "lines": 8
+    },
+    {
+      "path": "items/text-effects/soft-blur-in/code/animata/text/text-animator.css",
+      "bytes": 857,
+      "chars": 857,
+      "lines": 35
+    },
+    {
+      "path": "items/text-effects/soft-blur-in/code/animata/text/text-animator.tsx",
+      "bytes": 32031,
+      "chars": 32031,
+      "lines": 1009
+    },
+    {
+      "path": "items/text-effects/terminal-animation/item.md",
+      "bytes": 3559,
+      "chars": 3539,
+      "lines": 79
+    },
+    {
+      "path": "items/text-effects/terminal-animation/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/terminal-animation/code/terminal-animation.tsx",
+      "bytes": 22251,
+      "chars": 22235,
+      "lines": 808
+    },
+    {
+      "path": "items/text-effects/text-animate/item.md",
+      "bytes": 4455,
+      "chars": 4431,
+      "lines": 97
+    },
+    {
+      "path": "items/text-effects/text-animate/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/text-animate/code/text-animate.tsx",
+      "bytes": 7725,
+      "chars": 7725,
+      "lines": 286
+    },
+    {
+      "path": "items/text-effects/text-effect/item.md",
+      "bytes": 4676,
+      "chars": 4642,
+      "lines": 97
+    },
+    {
+      "path": "items/text-effects/text-effect/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/text-effect/code/components/core/text-effect.tsx",
+      "bytes": 7271,
+      "chars": 7271,
+      "lines": 294
+    },
+    {
+      "path": "items/text-effects/text-effect/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/text-effects/text-highlighter/item.md",
+      "bytes": 3115,
+      "chars": 3099,
+      "lines": 75
+    },
+    {
+      "path": "items/text-effects/text-highlighter/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/text-highlighter/code/fancy/text/text-highlighter.tsx",
+      "bytes": 5351,
+      "chars": 5351,
+      "lines": 211
+    },
+    {
+      "path": "items/text-effects/text-loop/item.md",
+      "bytes": 2916,
+      "chars": 2906,
+      "lines": 68
+    },
+    {
+      "path": "items/text-effects/text-loop/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/text-loop/code/components/core/text-loop.tsx",
+      "bytes": 1764,
+      "chars": 1764,
+      "lines": 72
+    },
+    {
+      "path": "items/text-effects/text-loop/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/text-effects/text-morph/item.md",
+      "bytes": 2996,
+      "chars": 2984,
+      "lines": 74
+    },
+    {
+      "path": "items/text-effects/text-morph/code/text-morph.tsx",
+      "bytes": 9368,
+      "chars": 9368,
+      "lines": 313
+    },
+    {
+      "path": "items/text-effects/type-shuffle/item.md",
+      "bytes": 6428,
+      "chars": 6400,
+      "lines": 116
+    },
+    {
+      "path": "items/text-effects/type-shuffle/LICENSE",
+      "bytes": 1103,
+      "chars": 1103,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/type-shuffle/code/src/index.html",
+      "bytes": 6269,
+      "chars": 6269,
+      "lines": 117
+    },
+    {
+      "path": "items/text-effects/type-shuffle/code/src/css/base.css",
+      "bytes": 3975,
+      "chars": 3975,
+      "lines": 253
+    },
+    {
+      "path": "items/text-effects/type-shuffle/code/src/js/index.js",
+      "bytes": 504,
+      "chars": 504,
+      "lines": 18
+    },
+    {
+      "path": "items/text-effects/type-shuffle/code/src/js/typeShuffle.js",
+      "bytes": 12524,
+      "chars": 12524,
+      "lines": 401
+    },
+    {
+      "path": "items/text-effects/type-shuffle/code/src/js/utils.js",
+      "bytes": 353,
+      "chars": 353,
+      "lines": 18
+    },
+    {
+      "path": "items/text-effects/typing-text/item.md",
+      "bytes": 3152,
+      "chars": 3138,
+      "lines": 74
+    },
+    {
+      "path": "items/text-effects/typing-text/LICENSE",
+      "bytes": 1058,
+      "chars": 1058,
+      "lines": 22
+    },
+    {
+      "path": "items/text-effects/typing-text/code/animata/text/typing-text.tsx",
+      "bytes": 6478,
+      "chars": 6478,
+      "lines": 278
+    },
+    {
+      "path": "items/text-effects/typing-text/code/lib/utils.ts",
+      "bytes": 538,
+      "chars": 538,
+      "lines": 20
+    },
+    {
+      "path": "items/text-effects/variable-font-and-cursor/item.md",
+      "bytes": 3031,
+      "chars": 3017,
+      "lines": 71
+    },
+    {
+      "path": "items/text-effects/variable-font-and-cursor/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/variable-font-and-cursor/code/fancy/text/variable-font-and-cursor.tsx",
+      "bytes": 5265,
+      "chars": 5265,
+      "lines": 159
+    },
+    {
+      "path": "items/text-effects/variable-font-and-cursor/code/hooks/use-mouse-position-ref.ts",
+      "bytes": 1279,
+      "chars": 1279,
+      "lines": 42
+    },
+    {
+      "path": "items/text-effects/variable-font-cursor-proximity/item.md",
+      "bytes": 3720,
+      "chars": 3702,
+      "lines": 78
+    },
+    {
+      "path": "items/text-effects/variable-font-cursor-proximity/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/variable-font-cursor-proximity/code/fancy/text/variable-font-cursor-proximity.tsx",
+      "bytes": 9755,
+      "chars": 9755,
+      "lines": 281
+    },
+    {
+      "path": "items/text-effects/variable-font-cursor-proximity/code/hooks/use-mouse-position-ref.ts",
+      "bytes": 1279,
+      "chars": 1279,
+      "lines": 42
+    },
+    {
+      "path": "items/text-effects/variable-font-hover-by-letter/item.md",
+      "bytes": 2801,
+      "chars": 2781,
+      "lines": 67
+    },
+    {
+      "path": "items/text-effects/variable-font-hover-by-letter/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/variable-font-hover-by-letter/code/fancy/text/variable-font-hover-by-letter.tsx",
+      "bytes": 2156,
+      "chars": 2156,
+      "lines": 97
+    },
+    {
+      "path": "items/text-effects/variable-font-hover-by-random-letter/item.md",
+      "bytes": 2499,
+      "chars": 2487,
+      "lines": 61
+    },
+    {
+      "path": "items/text-effects/variable-font-hover-by-random-letter/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/text-effects/variable-font-hover-by-random-letter/code/fancy/text/variable-font-hover-by-random-letter.tsx",
+      "bytes": 2079,
+      "chars": 2079,
+      "lines": 88
+    },
+    {
+      "path": "items/transitions/expandable/item.md",
+      "bytes": 3708,
+      "chars": 3684,
+      "lines": 86
+    },
+    {
+      "path": "items/transitions/expandable/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/transitions/expandable/code/expandable.tsx",
+      "bytes": 16590,
+      "chars": 16584,
+      "lines": 555
+    },
+    {
+      "path": "items/transitions/expandable-screen/item.md",
+      "bytes": 3517,
+      "chars": 3499,
+      "lines": 81
+    },
+    {
+      "path": "items/transitions/expandable-screen/LICENSE",
+      "bytes": 1071,
+      "chars": 1071,
+      "lines": 21
+    },
+    {
+      "path": "items/transitions/expandable-screen/code/expandable-screen.tsx",
+      "bytes": 5652,
+      "chars": 5652,
+      "lines": 225
+    },
+    {
+      "path": "items/transitions/flexbox-filter-flip/item.md",
+      "bytes": 3265,
+      "chars": 3239,
+      "lines": 72
+    },
+    {
+      "path": "items/transitions/flexbox-filter-flip/code/index.html",
+      "bytes": 1229,
+      "chars": 1229,
+      "lines": 32
+    },
+    {
+      "path": "items/transitions/flexbox-filter-flip/code/script.js",
+      "bytes": 1318,
+      "chars": 1318,
+      "lines": 25
+    },
+    {
+      "path": "items/transitions/flexbox-filter-flip/code/style.css",
+      "bytes": 1878,
+      "chars": 1878,
+      "lines": 115
+    },
+    {
+      "path": "items/transitions/morphing-dialog/item.md",
+      "bytes": 3653,
+      "chars": 3639,
+      "lines": 78
+    },
+    {
+      "path": "items/transitions/morphing-dialog/LICENSE",
+      "bytes": 1077,
+      "chars": 1077,
+      "lines": 22
+    },
+    {
+      "path": "items/transitions/morphing-dialog/code/components/core/morphing-dialog.tsx",
+      "bytes": 9858,
+      "chars": 9858,
+      "lines": 422
+    },
+    {
+      "path": "items/transitions/morphing-dialog/code/hooks/useClickOutside.tsx",
+      "bytes": 755,
+      "chars": 755,
+      "lines": 26
+    },
+    {
+      "path": "items/transitions/morphing-dialog/code/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "items/transitions/morphsvg-curve-manipulation/item.md",
+      "bytes": 3478,
+      "chars": 3456,
+      "lines": 75
+    },
+    {
+      "path": "items/transitions/morphsvg-curve-manipulation/code/index.html",
+      "bytes": 587,
+      "chars": 587,
+      "lines": 12
+    },
+    {
+      "path": "items/transitions/morphsvg-curve-manipulation/code/script.js",
+      "bytes": 353,
+      "chars": 353,
+      "lines": 11
+    },
+    {
+      "path": "items/transitions/morphsvg-curve-manipulation/code/style.css",
+      "bytes": 463,
+      "chars": 463,
+      "lines": 36
+    },
+    {
+      "path": "items/transitions/svg-path-page-transition-vertical/item.md",
+      "bytes": 3757,
+      "chars": 3727,
+      "lines": 80
+    },
+    {
+      "path": "items/transitions/svg-path-page-transition-vertical/LICENSE",
+      "bytes": 1064,
+      "chars": 1064,
+      "lines": 21
+    },
+    {
+      "path": "items/transitions/svg-path-page-transition-vertical/code/css/base.css",
+      "bytes": 2783,
+      "chars": 2783,
+      "lines": 166
+    },
+    {
+      "path": "items/transitions/svg-path-page-transition-vertical/code/js/index.js",
+      "bytes": 3569,
+      "chars": 3568,
+      "lines": 138
+    },
+    {
+      "path": "items/utilities/gooey-svg-filter/item.md",
+      "bytes": 3080,
+      "chars": 3064,
+      "lines": 73
+    },
+    {
+      "path": "items/utilities/gooey-svg-filter/LICENSE",
+      "bytes": 1069,
+      "chars": 1069,
+      "lines": 21
+    },
+    {
+      "path": "items/utilities/gooey-svg-filter/code/fancy/filter/gooey-svg-filter.tsx",
+      "bytes": 666,
+      "chars": 666,
+      "lines": 30
+    },
+    {
+      "path": "presentation/design-memory-explique.svg",
+      "bytes": 4095,
+      "chars": 4061,
+      "lines": 54
+    },
+    {
+      "path": "preview/index.html",
+      "bytes": 509,
+      "chars": 507,
+      "lines": 18
+    },
+    {
+      "path": "preview/package-lock.json",
+      "bytes": 170850,
+      "chars": 170850,
+      "lines": 5127
+    },
+    {
+      "path": "preview/package.json",
+      "bytes": 1659,
+      "chars": 1659,
+      "lines": 58
+    },
+    {
+      "path": "preview/README.md",
+      "bytes": 4827,
+      "chars": 4799,
+      "lines": 94
+    },
+    {
+      "path": "preview/vite.config.ts",
+      "bytes": 14843,
+      "chars": 14799,
+      "lines": 252
+    },
+    {
+      "path": "preview/public/vanilla/gallery-carousel-shapes-slideshow.html",
+      "bytes": 6429,
+      "chars": 6423,
+      "lines": 105
+    },
+    {
+      "path": "preview/public/vanilla/image-treatment-canvas-grid-mouse-effect.html",
+      "bytes": 856,
+      "chars": 856,
+      "lines": 18
+    },
+    {
+      "path": "preview/public/vanilla/image-treatment-circle-caption-reveal.html",
+      "bytes": 3599,
+      "chars": 3591,
+      "lines": 82
+    },
+    {
+      "path": "preview/public/vanilla/image-treatment-image-pixel-loading.html",
+      "bytes": 5017,
+      "chars": 5001,
+      "lines": 95
+    },
+    {
+      "path": "preview/public/vanilla/image-treatment-relighting-images.html",
+      "bytes": 1928,
+      "chars": 1926,
+      "lines": 42
+    },
+    {
+      "path": "preview/public/vanilla/navigation-ease-reverse-clip-menu.html",
+      "bytes": 5154,
+      "chars": 5149,
+      "lines": 92
+    },
+    {
+      "path": "preview/public/vanilla/navigation-hover-grid.html",
+      "bytes": 6912,
+      "chars": 6906,
+      "lines": 102
+    },
+    {
+      "path": "preview/public/vanilla/scroll-continuous-sections-observer.html",
+      "bytes": 1827,
+      "chars": 1827,
+      "lines": 34
+    },
+    {
+      "path": "preview/public/vanilla/scroll-elastic-grid-scroll.html",
+      "bytes": 13083,
+      "chars": 13081,
+      "lines": 230
+    },
+    {
+      "path": "preview/public/vanilla/scroll-horizontal-clip-path-scroll.html",
+      "bytes": 20308,
+      "chars": 20308,
+      "lines": 245
+    },
+    {
+      "path": "preview/public/vanilla/scroll-parallax-image-layers.html",
+      "bytes": 2894,
+      "chars": 2892,
+      "lines": 39
+    },
+    {
+      "path": "preview/public/vanilla/scroll-scroll-synced-video-keyhole.html",
+      "bytes": 5008,
+      "chars": 4996,
+      "lines": 107
+    },
+    {
+      "path": "preview/public/vanilla/scroll-scrolltrigger-image-zoom.html",
+      "bytes": 1150,
+      "chars": 1148,
+      "lines": 23
+    },
+    {
+      "path": "preview/public/vanilla/scroll-sticky-grid-scroll.html",
+      "bytes": 6026,
+      "chars": 6022,
+      "lines": 87
+    },
+    {
+      "path": "preview/public/vanilla/scroll-sticky-sections.html",
+      "bytes": 5634,
+      "chars": 5628,
+      "lines": 82
+    },
+    {
+      "path": "preview/public/vanilla/scroll-telescope-zoom.html",
+      "bytes": 5289,
+      "chars": 5285,
+      "lines": 73
+    },
+    {
+      "path": "preview/public/vanilla/scroll-webgl-progressive-blur.html",
+      "bytes": 5144,
+      "chars": 5138,
+      "lines": 135
+    },
+    {
+      "path": "preview/public/vanilla/text-effects-type-shuffle.html",
+      "bytes": 3544,
+      "chars": 3536,
+      "lines": 69
+    },
+    {
+      "path": "preview/public/vanilla/transitions-flexbox-filter-flip.html",
+      "bytes": 2826,
+      "chars": 2822,
+      "lines": 59
+    },
+    {
+      "path": "preview/public/vanilla/transitions-morphsvg-curve-manipulation.html",
+      "bytes": 1758,
+      "chars": 1758,
+      "lines": 38
+    },
+    {
+      "path": "preview/src/About.tsx",
+      "bytes": 9866,
+      "chars": 9789,
+      "lines": 203
+    },
+    {
+      "path": "preview/src/App.tsx",
+      "bytes": 4746,
+      "chars": 4732,
+      "lines": 116
+    },
+    {
+      "path": "preview/src/main.tsx",
+      "bytes": 424,
+      "chars": 424,
+      "lines": 9
+    },
+    {
+      "path": "preview/src/shared.tsx",
+      "bytes": 9468,
+      "chars": 9422,
+      "lines": 250
+    },
+    {
+      "path": "preview/src/styles.css",
+      "bytes": 5952,
+      "chars": 5928,
+      "lines": 137
+    },
+    {
+      "path": "preview/src/categories/backgrounds.tsx",
+      "bytes": 4291,
+      "chars": 4283,
+      "lines": 114
+    },
+    {
+      "path": "preview/src/categories/feedback.tsx",
+      "bytes": 4345,
+      "chars": 4343,
+      "lines": 146
+    },
+    {
+      "path": "preview/src/categories/galleryCarousel.tsx",
+      "bytes": 6833,
+      "chars": 6795,
+      "lines": 183
+    },
+    {
+      "path": "preview/src/categories/hoverCursor.tsx",
+      "bytes": 2786,
+      "chars": 2784,
+      "lines": 86
+    },
+    {
+      "path": "preview/src/categories/imageTreatment.tsx",
+      "bytes": 5202,
+      "chars": 5182,
+      "lines": 159
+    },
+    {
+      "path": "preview/src/categories/layoutBlocks.tsx",
+      "bytes": 6486,
+      "chars": 6476,
+      "lines": 180
+    },
+    {
+      "path": "preview/src/categories/navigation.tsx",
+      "bytes": 3250,
+      "chars": 3232,
+      "lines": 85
+    },
+    {
+      "path": "preview/src/categories/primitives.tsx",
+      "bytes": 6805,
+      "chars": 6795,
+      "lines": 147
+    },
+    {
+      "path": "preview/src/categories/scroll.tsx",
+      "bytes": 7695,
+      "chars": 7655,
+      "lines": 239
+    },
+    {
+      "path": "preview/src/categories/textEffects.tsx",
+      "bytes": 13951,
+      "chars": 13932,
+      "lines": 371
+    },
+    {
+      "path": "preview/src/categories/transitions.tsx",
+      "bytes": 4302,
+      "chars": 4298,
+      "lines": 151
+    },
+    {
+      "path": "preview/src/categories/utilities.tsx",
+      "bytes": 1198,
+      "chars": 1196,
+      "lines": 31
+    },
+    {
+      "path": "preview/src/full/AtmosphericDepthGalleryFullPage.tsx",
+      "bytes": 2408,
+      "chars": 2394,
+      "lines": 54
+    },
+    {
+      "path": "preview/src/full/index.tsx",
+      "bytes": 4403,
+      "chars": 4391,
+      "lines": 89
+    },
+    {
+      "path": "preview/src/full/R3fCarouselFullPage.tsx",
+      "bytes": 3356,
+      "chars": 3346,
+      "lines": 76
+    },
+    {
+      "path": "preview/src/lib/utils.ts",
+      "bytes": 169,
+      "chars": 169,
+      "lines": 6
+    },
+    {
+      "path": "preview/src/shadcn/aspect-ratio.tsx",
+      "bytes": 125,
+      "chars": 125,
+      "lines": 3
+    },
+    {
+      "path": "preview/src/shadcn/badge.tsx",
+      "bytes": 637,
+      "chars": 637,
+      "lines": 23
+    },
+    {
+      "path": "preview/src/shadcn/button.tsx",
+      "bytes": 1787,
+      "chars": 1785,
+      "lines": 52
+    },
+    {
+      "path": "preview/src/shadcn/checkbox.tsx",
+      "bytes": 804,
+      "chars": 804,
+      "lines": 23
+    },
+    {
+      "path": "preview/src/shadcn/dialog.tsx",
+      "bytes": 1638,
+      "chars": 1638,
+      "lines": 42
+    },
+    {
+      "path": "preview/src/shadcn/drawer.tsx",
+      "bytes": 511,
+      "chars": 509,
+      "lines": 11
+    },
+    {
+      "path": "preview/src/shadcn/next-image.tsx",
+      "bytes": 740,
+      "chars": 738,
+      "lines": 20
+    },
+    {
+      "path": "preview/src/shadcn/progress.tsx",
+      "bytes": 729,
+      "chars": 729,
+      "lines": 20
+    },
+    {
+      "path": "preview/src/shadcn/slider.tsx",
+      "bytes": 806,
+      "chars": 806,
+      "lines": 20
+    },
+    {
+      "path": "research/2026-09-26-motion-and-creative-tools.md",
+      "bytes": 9705,
+      "chars": 9705,
+      "lines": 134
+    },
+    {
+      "path": "research/2026-10-05-agent-design-skills-compatibility.md",
+      "bytes": 17818,
+      "chars": 17371,
+      "lines": 138
+    },
+    {
+      "path": "rules/accessibility.md",
+      "bytes": 10584,
+      "chars": 10504,
+      "lines": 156
+    },
+    {
+      "path": "rules/architecture.md",
+      "bytes": 3850,
+      "chars": 3838,
+      "lines": 65
+    },
+    {
+      "path": "rules/color.md",
+      "bytes": 16110,
+      "chars": 15960,
+      "lines": 285
+    },
+    {
+      "path": "rules/composition.md",
+      "bytes": 11680,
+      "chars": 11583,
+      "lines": 210
+    },
+    {
+      "path": "rules/content.md",
+      "bytes": 7340,
+      "chars": 7287,
+      "lines": 144
+    },
+    {
+      "path": "rules/delivery.md",
+      "bytes": 6742,
+      "chars": 6722,
+      "lines": 98
+    },
+    {
+      "path": "rules/design-plan.md",
+      "bytes": 7839,
+      "chars": 7755,
+      "lines": 176
+    },
+    {
+      "path": "rules/distinctiveness.md",
+      "bytes": 15089,
+      "chars": 14886,
+      "lines": 287
+    },
+    {
+      "path": "rules/forbidden.md",
+      "bytes": 10733,
+      "chars": 10652,
+      "lines": 167
+    },
+    {
+      "path": "rules/gsap.md",
+      "bytes": 4295,
+      "chars": 4295,
+      "lines": 71
+    },
+    {
+      "path": "rules/images.md",
+      "bytes": 4807,
+      "chars": 4774,
+      "lines": 90
+    },
+    {
+      "path": "rules/layout.md",
+      "bytes": 8878,
+      "chars": 8800,
+      "lines": 109
+    },
+    {
+      "path": "rules/manual.md",
+      "bytes": 25749,
+      "chars": 25539,
+      "lines": 284
+    },
+    {
+      "path": "rules/motion.md",
+      "bytes": 10385,
+      "chars": 10333,
+      "lines": 198
+    },
+    {
+      "path": "rules/reference-analysis.md",
+      "bytes": 3581,
+      "chars": 3579,
+      "lines": 60
+    },
+    {
+      "path": "rules/seo-legal-baseline.md",
+      "bytes": 14123,
+      "chars": 14025,
+      "lines": 309
+    },
+    {
+      "path": "rules/spacing.md",
+      "bytes": 4141,
+      "chars": 4118,
+      "lines": 115
+    },
+    {
+      "path": "rules/typography.md",
+      "bytes": 5760,
+      "chars": 5716,
+      "lines": 115
+    },
+    {
+      "path": "scripts/audit.mjs",
+      "bytes": 17796,
+      "chars": 17739,
+      "lines": 373
+    },
+    {
+      "path": "scripts/build-catalog.mjs",
+      "bytes": 5371,
+      "chars": 5361,
+      "lines": 131
+    },
+    {
+      "path": "scripts/check-site.mjs",
+      "bytes": 6173,
+      "chars": 6171,
+      "lines": 79
+    },
+    {
+      "path": "scripts/critique.mjs",
+      "bytes": 8137,
+      "chars": 8109,
+      "lines": 194
+    },
+    {
+      "path": "scripts/direction-lib.mjs",
+      "bytes": 9852,
+      "chars": 9836,
+      "lines": 262
+    },
+    {
+      "path": "scripts/eval-score.mjs",
+      "bytes": 8011,
+      "chars": 8000,
+      "lines": 180
+    },
+    {
+      "path": "scripts/generate-color-scale.mjs",
+      "bytes": 11163,
+      "chars": 11123,
+      "lines": 242
+    },
+    {
+      "path": "scripts/generate-fluid-scale.mjs",
+      "bytes": 6351,
+      "chars": 6321,
+      "lines": 139
+    },
+    {
+      "path": "scripts/ingest.mjs",
+      "bytes": 25402,
+      "chars": 25330,
+      "lines": 560
+    },
+    {
+      "path": "scripts/lib.mjs",
+      "bytes": 9316,
+      "chars": 9302,
+      "lines": 280
+    },
+    {
+      "path": "scripts/manifest.mjs",
+      "bytes": 4432,
+      "chars": 4432,
+      "lines": 61
+    },
+    {
+      "path": "scripts/plan.mjs",
+      "bytes": 15942,
+      "chars": 15867,
+      "lines": 319
+    },
+    {
+      "path": "scripts/preview-coverage.mjs",
+      "bytes": 6020,
+      "chars": 6004,
+      "lines": 125
+    },
+    {
+      "path": "scripts/search.mjs",
+      "bytes": 10624,
+      "chars": 10592,
+      "lines": 224
+    },
+    {
+      "path": "scripts/selftest.mjs",
+      "bytes": 18547,
+      "chars": 18519,
+      "lines": 433
+    },
+    {
+      "path": "scripts/tells.mjs",
+      "bytes": 16532,
+      "chars": 16462,
+      "lines": 345
+    },
+    {
+      "path": "scripts/test-delivery.mjs",
+      "bytes": 4258,
+      "chars": 4258,
+      "lines": 52
+    },
+    {
+      "path": "scripts/test-direction.mjs",
+      "bytes": 26326,
+      "chars": 26276,
+      "lines": 461
+    },
+    {
+      "path": "scripts/tokens.mjs",
+      "bytes": 7453,
+      "chars": 7438,
+      "lines": 160
+    },
+    {
+      "path": "scripts/verify.mjs",
+      "bytes": 5621,
+      "chars": 5617,
+      "lines": 151
+    },
+    {
+      "path": "skills/design-memory/resolve-root.mjs",
+      "bytes": 416,
+      "chars": 416,
+      "lines": 10
+    },
+    {
+      "path": "skills/design-memory/SKILL.md",
+      "bytes": 16896,
+      "chars": 16787,
+      "lines": 275
+    },
+    {
+      "path": "skills/design-memory-maintain/SKILL.md",
+      "bytes": 5459,
+      "chars": 5399,
+      "lines": 100
+    }
+  ],
+  "binary": [
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/assets/flower-01.webp",
+      "bytes": 52310
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/assets/flower-02.webp",
+      "bytes": 38980
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/assets/flower-03.webp",
+      "bytes": 41584
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/assets/flower-04.webp",
+      "bytes": 40938
+    },
+    {
+      "path": "items/gallery-carousel/atmospheric-depth-gallery/code/src/assets/flower-05.webp",
+      "bytes": 28546
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/favicon.ico",
+      "bytes": 15086
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/1.jpg",
+      "bytes": 238979
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/2.jpg",
+      "bytes": 140231
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/3.jpg",
+      "bytes": 76020
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/4.jpg",
+      "bytes": 59888
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/5.jpg",
+      "bytes": 193015
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/6.jpg",
+      "bytes": 72541
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/7.jpg",
+      "bytes": 76339
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/8.jpg",
+      "bytes": 121876
+    },
+    {
+      "path": "items/gallery-carousel/shapes-slideshow/code/src/img/9.jpg",
+      "bytes": 90617
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/public/textures/mother-depth.webp",
+      "bytes": 225432
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/public/textures/mother.jpg",
+      "bytes": 145248
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/public/textures/relief-depth.webp",
+      "bytes": 2195528
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/public/textures/relief.jpg",
+      "bytes": 3041051
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/public/textures/wall-depth.webp",
+      "bytes": 1046898
+    },
+    {
+      "path": "items/image-treatment/relighting-images/code/public/textures/wall.jpg",
+      "bytes": 2422139
+    },
+    {
+      "path": "items/navigation/hover-grid/code/media/bg-video.mp4",
+      "bytes": 5826375
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/1.webp",
+      "bytes": 89034
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/10.webp",
+      "bytes": 89346
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/11.webp",
+      "bytes": 87938
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/12.webp",
+      "bytes": 116760
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/13.webp",
+      "bytes": 110380
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/14.webp",
+      "bytes": 109802
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/2.webp",
+      "bytes": 85434
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/3.webp",
+      "bytes": 86010
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/4.webp",
+      "bytes": 103092
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/5.webp",
+      "bytes": 210488
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/6.webp",
+      "bytes": 54220
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/7.webp",
+      "bytes": 93922
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/8.webp",
+      "bytes": 158050
+    },
+    {
+      "path": "items/scroll/sticky-grid-scroll/code/public/9.webp",
+      "bytes": 142170
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-1.webp",
+      "bytes": 159270
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-10.webp",
+      "bytes": 117378
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-2.webp",
+      "bytes": 55644
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-3.webp",
+      "bytes": 193444
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-4.webp",
+      "bytes": 195234
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-5.webp",
+      "bytes": 82302
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-6.webp",
+      "bytes": 126840
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-7.webp",
+      "bytes": 49930
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-8.webp",
+      "bytes": 55548
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-9.webp",
+      "bytes": 91460
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/img-big.jpg",
+      "bytes": 349421
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/public/mask.png",
+      "bytes": 124380
+    },
+    {
+      "path": "items/scroll/telescope-zoom/code/src/mask.png",
+      "bytes": 124380
+    },
+    {
+      "path": "preview/public/fonts/geist-pixel/GeistPixel-Circle.woff2",
+      "bytes": 28044
+    },
+    {
+      "path": "preview/public/fonts/geist-pixel/GeistPixel-Grid.woff2",
+      "bytes": 28368
+    },
+    {
+      "path": "preview/public/fonts/geist-pixel/GeistPixel-Line.woff2",
+      "bytes": 18120
+    },
+    {
+      "path": "preview/public/fonts/geist-pixel/GeistPixel-Square.woff2",
+      "bytes": 28540
+    },
+    {
+      "path": "preview/public/fonts/geist-pixel/GeistPixel-Triangle.woff2",
+      "bytes": 28760
+    },
+    {
+      "path": "preview/public/images/bg-media.jpg",
+      "bytes": 81115
+    },
+    {
+      "path": "preview/public/images/compare-after.jpg",
+      "bytes": 29365
+    },
+    {
+      "path": "preview/public/images/compare-before.jpg",
+      "bytes": 30640
+    },
+    {
+      "path": "preview/public/images/fc-1a.jpg",
+      "bytes": 25068
+    },
+    {
+      "path": "preview/public/images/fc-1b.jpg",
+      "bytes": 25245
+    },
+    {
+      "path": "preview/public/images/fc-2a.jpg",
+      "bytes": 22555
+    },
+    {
+      "path": "preview/public/images/fc-2b.jpg",
+      "bytes": 45262
+    },
+    {
+      "path": "preview/public/images/fc-3.jpg",
+      "bytes": 22739
+    },
+    {
+      "path": "preview/public/images/fc-4.jpg",
+      "bytes": 25567
+    },
+    {
+      "path": "preview/public/images/float-1.jpg",
+      "bytes": 6981
+    },
+    {
+      "path": "preview/public/images/float-2.jpg",
+      "bytes": 4762
+    },
+    {
+      "path": "preview/public/images/float-3.jpg",
+      "bytes": 2071
+    },
+    {
+      "path": "preview/public/images/hover-video-thumb.jpg",
+      "bytes": 22069
+    },
+    {
+      "path": "preview/public/images/img1.webp",
+      "bytes": 13126
+    },
+    {
+      "path": "preview/public/images/img10.webp",
+      "bytes": 13126
+    },
+    {
+      "path": "preview/public/images/img11.webp",
+      "bytes": 15540
+    },
+    {
+      "path": "preview/public/images/img12.webp",
+      "bytes": 13676
+    },
+    {
+      "path": "preview/public/images/img13.webp",
+      "bytes": 32770
+    },
+    {
+      "path": "preview/public/images/img14.webp",
+      "bytes": 11504
+    },
+    {
+      "path": "preview/public/images/img15.webp",
+      "bytes": 16484
+    },
+    {
+      "path": "preview/public/images/img16.webp",
+      "bytes": 17182
+    },
+    {
+      "path": "preview/public/images/img17.webp",
+      "bytes": 32018
+    },
+    {
+      "path": "preview/public/images/img18.webp",
+      "bytes": 59864
+    },
+    {
+      "path": "preview/public/images/img19.webp",
+      "bytes": 13126
+    },
+    {
+      "path": "preview/public/images/img2.webp",
+      "bytes": 15540
+    },
+    {
+      "path": "preview/public/images/img20.webp",
+      "bytes": 15540
+    },
+    {
+      "path": "preview/public/images/img21.webp",
+      "bytes": 13676
+    },
+    {
+      "path": "preview/public/images/img22.webp",
+      "bytes": 32770
+    },
+    {
+      "path": "preview/public/images/img23.webp",
+      "bytes": 11504
+    },
+    {
+      "path": "preview/public/images/img24.webp",
+      "bytes": 16484
+    },
+    {
+      "path": "preview/public/images/img3.webp",
+      "bytes": 13676
+    },
+    {
+      "path": "preview/public/images/img4.webp",
+      "bytes": 32770
+    },
+    {
+      "path": "preview/public/images/img5.webp",
+      "bytes": 11504
+    },
+    {
+      "path": "preview/public/images/img6.webp",
+      "bytes": 16484
+    },
+    {
+      "path": "preview/public/images/img7.webp",
+      "bytes": 17182
+    },
+    {
+      "path": "preview/public/images/img8.webp",
+      "bytes": 32018
+    },
+    {
+      "path": "preview/public/images/img9.webp",
+      "bytes": 59864
+    },
+    {
+      "path": "preview/public/images/intro-1.jpg",
+      "bytes": 26636
+    },
+    {
+      "path": "preview/public/images/intro-2.jpg",
+      "bytes": 44692
+    },
+    {
+      "path": "preview/public/images/morph-dialog-full.jpg",
+      "bytes": 49818
+    },
+    {
+      "path": "preview/public/images/morph-dialog-thumb.jpg",
+      "bytes": 6994
+    },
+    {
+      "path": "preview/public/images/progressive-blur.jpg",
+      "bytes": 22739
+    },
+    {
+      "path": "preview/public/textures/mother-depth.webp",
+      "bytes": 225432
+    },
+    {
+      "path": "preview/public/textures/mother.jpg",
+      "bytes": 145248
+    },
+    {
+      "path": "preview/public/textures/relief-depth.webp",
+      "bytes": 2195528
+    },
+    {
+      "path": "preview/public/textures/relief.jpg",
+      "bytes": 3041051
+    },
+    {
+      "path": "preview/public/textures/wall-depth.webp",
+      "bytes": 1046898
+    },
+    {
+      "path": "preview/public/textures/wall.jpg",
+      "bytes": 2422139
+    }
+  ]
+}

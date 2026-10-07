@@ -1,0 +1,17 @@
+House-style tells — C:\.Leonardo\TELAVENTIS BUISNESSES websites\domaine aux lions
+64 file(s) scanned, 47 page(s)
+
+Totals (limits in rules/forbidden.md → House-style tells):
+  eyebrow                   4   (1/page)
+  accent-word               0   (1/page)
+  numbered-index            0   (1/page)
+  arrow-links               3   (2/page)
+  stats-band                0   (1/page, 1/site)
+  three-equal-columns       0   (1/page, 1/site)
+  pill-shapes              13   (2/page)
+  reveal-every-heading      0   (3/page)
+  paper-background          2   (needs a reason)
+  overused-font             0   (needs a reason)
+
+Over the limit:
+  (site) [paper-background] warm off-white "paper" surface: background-color: #fcf8e3, background-color: #fff3cd — needs a stated reason in the plan.

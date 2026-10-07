@@ -1,0 +1,95 @@
+{
+  "note": "sRGB rounded equivalents from the generated OKLCH scales; exact rendered color values also inspected in browser.",
+  "results": [
+    {
+      "name": "Primary text",
+      "fg": "#172319",
+      "bg": "#ffffff",
+      "wcag": 16.27,
+      "apca": 103.2,
+      "minimum": 60,
+      "pass": true
+    },
+    {
+      "name": "Secondary text and captions",
+      "fg": "#3d5441",
+      "bg": "#ffffff",
+      "wcag": 8.26,
+      "apca": 88.5,
+      "minimum": 75,
+      "pass": true
+    },
+    {
+      "name": "Review note on green 2",
+      "fg": "#3d5441",
+      "bg": "#f6f9f7",
+      "wcag": 7.79,
+      "apca": 84.5,
+      "minimum": 75,
+      "pass": true
+    },
+    {
+      "name": "Pool text on clay 3",
+      "fg": "#172319",
+      "bg": "#f7e8e1",
+      "wcag": 13.62,
+      "apca": 91.2,
+      "minimum": 60,
+      "pass": true
+    },
+    {
+      "name": "Pool fine print on clay 3",
+      "fg": "#3d5441",
+      "bg": "#f7e8e1",
+      "wcag": 6.92,
+      "apca": 76.6,
+      "minimum": 75,
+      "pass": true
+    },
+    {
+      "name": "Dark section body",
+      "fg": "#e6ede7",
+      "bg": "#172319",
+      "wcag": 13.66,
+      "apca": 92.7,
+      "minimum": 60,
+      "pass": true
+    },
+    {
+      "name": "Dark section title and buttons",
+      "fg": "#ffffff",
+      "bg": "#172319",
+      "wcag": 16.27,
+      "apca": 105.7,
+      "minimum": 60,
+      "pass": true
+    },
+    {
+      "name": "Hyperion rest",
+      "fg": "#ffffff",
+      "bg": "#000000",
+      "wcag": 21,
+      "apca": 107.9,
+      "minimum": 60,
+      "pass": true
+    },
+    {
+      "name": "Hyperion hover difference",
+      "fg": "#000000",
+      "bg": "#ffffff",
+      "wcag": 21,
+      "apca": 106,
+      "minimum": 60,
+      "pass": true
+    },
+    {
+      "name": "Location label and legal text",
+      "fg": "#6c412d",
+      "bg": "#ffffff",
+      "wcag": 8.64,
+      "apca": 89.5,
+      "minimum": 75,
+      "pass": true
+    }
+  ]
+}

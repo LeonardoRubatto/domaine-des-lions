@@ -1,0 +1,31 @@
+
+v3.js
+  [possible-reinvention] looks like it may reimplement "Pointer Square Lens Distortion with RGB Shift" (3d-webgl/pointer-square-lens-distortion, reference) — matched keywords: rgb, shift. Check items/3d-webgl/pointer-square-lens-distortion/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Edge Blur (progressive)" (backgrounds/edge-blur, reusable) — matched keywords: edge, blur. Check items/backgrounds/edge-blur/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Progressive Blur" (backgrounds/progressive-blur, reusable) — matched keywords: progressive, blur. Check items/backgrounds/progressive-blur/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Shapes Slideshow (circular clip-path)" (gallery-carousel/shapes-slideshow, reusable) — matched keywords: shapes, slideshow, clip. Check items/gallery-carousel/shapes-slideshow/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Canvas Grid Mouse Effect" (image-treatment/canvas-grid-mouse-effect, reference) — matched keywords: grid, mouse, effect. Check items/image-treatment/canvas-grid-mouse-effect/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Circle Caption Reveal (Dribbble grid, 7 hover variants)" (image-treatment/circle-caption-reveal, reusable) — matched keywords: circle, caption, hover. Check items/image-treatment/circle-caption-reveal/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Image Pixel Loading (on-scroll pixelated reveal)" (image-treatment/image-pixel-loading, reusable) — matched keywords: image, scroll. Check items/image-treatment/image-pixel-loading/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Image Ripple Effect" (image-treatment/image-ripple-effect, reusable) — matched keywords: image, effect. Check items/image-treatment/image-ripple-effect/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Images Reveal (fanned photo stack)" (image-treatment/images-reveal, reusable) — matched keywords: images, photo. Check items/image-treatment/images-reveal/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Ease Reverse Clip Menu (full-screen overlay menu)" (navigation/ease-reverse-clip-menu, reusable) — matched keywords: ease, reverse, clip, screen. Check items/navigation/ease-reverse-clip-menu/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Hover Grid (nav with reveal panels)" (navigation/hover-grid, reusable) — matched keywords: hover, grid. Check items/navigation/hover-grid/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Background-Animate Button" (primitives/bg-animate-button, reusable) — matched keywords: animate, button. Check items/primitives/bg-animate-button/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "CSS Button Hover Styles" (primitives/button-hover-styles, reusable) — matched keywords: button, hover. Check items/primitives/button-hover-styles/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Elastic Grid Scroll (per-column scroll lag)" (scroll/elastic-grid-scroll, reusable) — matched keywords: grid, scroll, scroll. Check items/scroll/elastic-grid-scroll/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "ScrollTrigger GSAP Horizontal Clip Path" (scroll/horizontal-clip-path-scroll, reference) — matched keywords: clip, path. Check items/scroll/horizontal-clip-path-scroll/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Perspective Gallery Clip-Path Scroll" (scroll/onscroll-clipped-sections, reference) — matched keywords: gallery, clip, path, scroll. Check items/scroll/onscroll-clipped-sections/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Parallax Image Layers" (scroll/parallax-image-layers, reference) — matched keywords: image, layers. Check items/scroll/parallax-image-layers/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Scroll Split Card" (scroll/scroll-split-card, reusable) — matched keywords: scroll, split. Check items/scroll/scroll-split-card/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "GSAP Scroll-Synced Video with Timed Cues and Keyhole Effect" (scroll/scroll-synced-video-keyhole, reference) — matched keywords: scroll, effect. Check items/scroll/scroll-synced-video-keyhole/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Scroll Tilted Grid" (scroll/scroll-tilted-grid, reusable) — matched keywords: scroll, tilted, grid. Check items/scroll/scroll-tilted-grid/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Sticky Grid Scroll" (scroll/sticky-grid-scroll, reusable) — matched keywords: grid, scroll. Check items/scroll/sticky-grid-scroll/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "WebGL Progressive Blur (scroll velocity)" (scroll/webgl-progressive-blur, reusable) — matched keywords: progressive, blur. Check items/scroll/webgl-progressive-blur/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Blur Out Up" (text-effects/blur-out-up, reusable) — matched keywords: blur, out. Check items/text-effects/blur-out-up/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Short Slide Down" (text-effects/short-slide-down, reusable) — matched keywords: short, slide, down. Check items/text-effects/short-slide-down/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Type Shuffle (LCD-style character shuffle)" (text-effects/type-shuffle, reusable) — matched keywords: type, style. Check items/text-effects/type-shuffle/item.md before continuing.
+
+--- audit summary ---
+files scanned: 1
+findings: 25

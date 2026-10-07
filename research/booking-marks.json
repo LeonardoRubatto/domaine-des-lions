@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "airbnb",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airbnb.svg",
+    "colour": "FF5A5F"
+  },
+  {
+    "slug": "bookingdotcom",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bookingdotcom.svg",
+    "colour": "003580"
+  }
+]

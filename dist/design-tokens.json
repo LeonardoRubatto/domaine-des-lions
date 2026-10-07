@@ -1,0 +1,54 @@
+{
+  "$comment": "Design Memory project tokens. scripts/audit.mjs measures this project's motion and spacing against these values instead of the library fallbacks in rules/. Edit freely — the design plan is the reason for each value.",
+  "source": {
+    "plan": "design-plan-v3.md",
+    "generated": "2026-10-07",
+    "defaulted": []
+  },
+  "motion": {
+    "durations": [
+      50,
+      200,
+      300,
+      400,
+      800,
+      8000
+    ],
+    "ranges": [],
+    "easings": [
+      [
+        0.2,
+        1,
+        0.7,
+        1
+      ],
+      [
+        0.7,
+        0,
+        0.2,
+        1
+      ],
+      [
+        0.7,
+        0,
+        0.3,
+        1
+      ],
+      [
+        0.2,
+        0,
+        0,
+        1
+      ]
+    ],
+    "allowKeywords": []
+  },
+  "spacing": {
+    "base": 4,
+    "exceptions": [
+      0,
+      1,
+      2
+    ]
+  }
+}

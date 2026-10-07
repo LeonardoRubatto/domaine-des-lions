@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "createdAt": "2026-10-07T17:14:05.390Z",
+  "state": "prepared",
+  "items": [
+    {
+      "id": "primitives/button-hover-styles",
+      "version": "f7a2214ae3f9ef269fe3375014e0f95a38a820cb94d781220242d06859e9e10d",
+      "license": "MIT",
+      "source": null
+    },
+    {
+      "id": "scroll/stacked-sections",
+      "version": "a16794c8f0550a83c7ec43123116b49e8c12061e7526e9c74c850c90846121b8",
+      "license": "MIT",
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+[
+  {
+    "path": "items/backgrounds/bg-media/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/backgrounds/dotted-map/code/lib/utils.ts",
+    "identicalTo": "examples/hero/code/lib/utils.ts",
+    "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d"
+  },
+  {
+    "path": "items/backgrounds/edge-blur/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/backgrounds/progressive-blur/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/backgrounds/progressive-blur/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/feedback/animata-progress/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/feedback/animata-progress/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/boids-ecosystem/code/lib/utils.ts",
+    "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd"
+  },
+  {
+    "path": "items/feedback/intro-disclosure/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/feedback/morph-surface/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/feedback/onboarding/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/feedback/split-reveal/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/feedback/split-reveal/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/boids-ecosystem/code/lib/utils.ts",
+    "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd"
+  },
+  {
+    "path": "items/gallery-carousel/feature-carousel/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/gallery-carousel/logo-carousel/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/gallery-carousel/r3f-experimental-carousels/code/src/shaders/image/fragment.glsl",
+    "identicalTo": "items/gallery-carousel/r3f-experimental-carousels/code/src/shaders/horizontal-image/fragment.glsl",
+    "sha256": "f99e678f8c7d960ba1134cacb62a2c7654b8cf38c4fea8a9dafeb0a2d5a03ab8"
+  },
+  {
+    "path": "items/gallery-carousel/shapes-slideshow/LICENSE",
+    "identicalTo": "items/3d-webgl/webgl-typing-clouds/LICENSE",
+    "sha256": "1f6db3d0b162eaa534ff5585db684f00c41f776325f7fd11ebf9373650099ce1"
+  },
+  {
+    "path": "items/gallery-carousel/simple-marquee/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/gallery-carousel/spiral-3d-slider/code/webgl-error-boundary.tsx",
+    "identicalTo": "items/backgrounds/animated-gradient/code/webgl-error-boundary.tsx",
+    "sha256": "ab3841788fe175169c4931710bf42e834fffa892387d70b58b150041c782107c"
+  },
+  {
+    "path": "items/hover-cursor/hover-video-player/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/hover-cursor/mp-cursor/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/hover-cursor/mp-cursor/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/image-treatment/image-comparison/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/image-treatment/image-comparison/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/image-treatment/image-ripple-effect/code/webgl-error-boundary.tsx",
+    "identicalTo": "items/backgrounds/animated-gradient/code/webgl-error-boundary.tsx",
+    "sha256": "ab3841788fe175169c4931710bf42e834fffa892387d70b58b150041c782107c"
+  },
+  {
+    "path": "items/image-treatment/images-reveal/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/image-treatment/parallax-floating/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/layout-blocks/bento-grid-gradient/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/layout-blocks/bento-grid-gradient/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/boids-ecosystem/code/lib/utils.ts",
+    "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd"
+  },
+  {
+    "path": "items/layout-blocks/hero-dithering/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/layout-blocks/hero-heatmap/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/layout-blocks/hero-liquid-metal/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/layout-blocks/mock-browser-window/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/navigation/dock/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/navigation/ease-reverse-clip-menu/LICENSE",
+    "identicalTo": "items/gallery-carousel/atmospheric-depth-gallery/LICENSE",
+    "sha256": "21b9f7ab4e47821cca20bb0b1b6e9aa779acc5b3564afde475ce0bca5cb05f4d"
+  },
+  {
+    "path": "items/navigation/hover-grid/LICENSE",
+    "identicalTo": "items/gallery-carousel/r3f-experimental-carousels/LICENSE",
+    "sha256": "a5ad4d98a7970bd09ba775c7e237fb93c60139f8e0e261ebb470e580b213c226"
+  },
+  {
+    "path": "items/navigation/toolbar-expandable/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/primitives/bg-animate-button/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/primitives/button-hover-styles/LICENSE",
+    "identicalTo": "items/3d-webgl/webgl-typing-clouds/LICENSE",
+    "sha256": "1f6db3d0b162eaa534ff5585db684f00c41f776325f7fd11ebf9373650099ce1"
+  },
+  {
+    "path": "items/primitives/floating-panel/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/primitives/mp-dialog/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/primitives/mp-dialog/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/scroll/elastic-grid-scroll/LICENSE",
+    "identicalTo": "items/gallery-carousel/r3f-experimental-carousels/LICENSE",
+    "sha256": "a5ad4d98a7970bd09ba775c7e237fb93c60139f8e0e261ebb470e580b213c226"
+  },
+  {
+    "path": "items/scroll/stacked-sections/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/scroll/stacked-sections/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/boids-ecosystem/code/lib/utils.ts",
+    "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd"
+  },
+  {
+    "path": "items/scroll/sticky-sections/LICENSE",
+    "identicalTo": "items/image-treatment/circle-caption-reveal/LICENSE",
+    "sha256": "aa78bd8b46d62f9e6c3931593c8421e48b67f0b3043c2b3fcb9702b0ae4bde30"
+  },
+  {
+    "path": "items/text-effects/blur-out-up/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/text-effects/hyper-text/LICENSE",
+    "identicalTo": "items/backgrounds/dotted-map/LICENSE",
+    "sha256": "0147b84235ed916b8b4e89c1f80655351c5afe7d211b629be61f553a227b34ba"
+  },
+  {
+    "path": "items/text-effects/hyper-text/code/lib/utils.ts",
+    "identicalTo": "examples/hero/code/lib/utils.ts",
+    "sha256": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d"
+  },
+  {
+    "path": "items/text-effects/letter-swap-forward/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/letter-swap-pingpong/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/mask-reveal-up/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/text-effects/mask-reveal-up/code/animata/text/text-animator-demo.ts",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator-demo.ts",
+    "sha256": "e54b2da4b75a805026588e0afae826cf7b004804e4ea1df01fc114d776ad603b"
+  },
+  {
+    "path": "items/text-effects/mask-reveal-up/code/animata/text/text-animator.css",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator.css",
+    "sha256": "3c8e48e39cfa034b8c5d7ba71fce082fac31867081ba0b1647be3de130e5e91f"
+  },
+  {
+    "path": "items/text-effects/mask-reveal-up/code/animata/text/text-animator.tsx",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator.tsx",
+    "sha256": "9b4ef84e036558371282a79aeafd10c6c4ba9e5e71c1efe6c0bb28ebadfb3ff2"
+  },
+  {
+    "path": "items/text-effects/pixel-heading-character/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/text-effects/random-letter-swap-forward/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/random-letter-swap-pingpong/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/short-slide-down/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/text-effects/short-slide-down/code/animata/text/text-animator-demo.ts",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator-demo.ts",
+    "sha256": "e54b2da4b75a805026588e0afae826cf7b004804e4ea1df01fc114d776ad603b"
+  },
+  {
+    "path": "items/text-effects/short-slide-down/code/animata/text/text-animator.css",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator.css",
+    "sha256": "3c8e48e39cfa034b8c5d7ba71fce082fac31867081ba0b1647be3de130e5e91f"
+  },
+  {
+    "path": "items/text-effects/short-slide-down/code/animata/text/text-animator.tsx",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator.tsx",
+    "sha256": "9b4ef84e036558371282a79aeafd10c6c4ba9e5e71c1efe6c0bb28ebadfb3ff2"
+  },
+  {
+    "path": "items/text-effects/soft-blur-in/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/text-effects/soft-blur-in/code/animata/text/text-animator-demo.ts",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator-demo.ts",
+    "sha256": "e54b2da4b75a805026588e0afae826cf7b004804e4ea1df01fc114d776ad603b"
+  },
+  {
+    "path": "items/text-effects/soft-blur-in/code/animata/text/text-animator.css",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator.css",
+    "sha256": "3c8e48e39cfa034b8c5d7ba71fce082fac31867081ba0b1647be3de130e5e91f"
+  },
+  {
+    "path": "items/text-effects/soft-blur-in/code/animata/text/text-animator.tsx",
+    "identicalTo": "items/text-effects/blur-out-up/code/animata/text/text-animator.tsx",
+    "sha256": "9b4ef84e036558371282a79aeafd10c6c4ba9e5e71c1efe6c0bb28ebadfb3ff2"
+  },
+  {
+    "path": "items/text-effects/terminal-animation/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/text-effects/text-animate/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/text-effects/text-effect/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/text-effects/text-effect/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/text-effects/text-highlighter/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/text-loop/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/text-effects/text-loop/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/text-effects/type-shuffle/LICENSE",
+    "identicalTo": "items/image-treatment/image-pixel-loading/LICENSE",
+    "sha256": "85131f2bb7714dc895ff5d7d68db65acc5ad0e5dfd72162869fc8d63dec06056"
+  },
+  {
+    "path": "items/text-effects/typing-text/LICENSE",
+    "identicalTo": "items/backgrounds/boids-ecosystem/LICENSE",
+    "sha256": "ff78804659cbc28380d087cae79c494f243f8ef22b1e2ac5ec119b5de9314f05"
+  },
+  {
+    "path": "items/text-effects/typing-text/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/boids-ecosystem/code/lib/utils.ts",
+    "sha256": "5110cb256546ec57496878e69c7e8f338a0ba9caf3ac75eed9babb51dad06ecd"
+  },
+  {
+    "path": "items/text-effects/variable-font-and-cursor/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/variable-font-and-cursor/code/hooks/use-mouse-position-ref.ts",
+    "identicalTo": "items/image-treatment/parallax-floating/code/hooks/use-mouse-position-ref.ts",
+    "sha256": "27cb64c83c6fe0ebfbcfbb232f4191f75bb0b4e40b7107d6846caa834c5a3828"
+  },
+  {
+    "path": "items/text-effects/variable-font-cursor-proximity/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/variable-font-cursor-proximity/code/hooks/use-mouse-position-ref.ts",
+    "identicalTo": "items/image-treatment/parallax-floating/code/hooks/use-mouse-position-ref.ts",
+    "sha256": "27cb64c83c6fe0ebfbcfbb232f4191f75bb0b4e40b7107d6846caa834c5a3828"
+  },
+  {
+    "path": "items/text-effects/variable-font-hover-by-letter/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/text-effects/variable-font-hover-by-random-letter/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  },
+  {
+    "path": "items/transitions/expandable-screen/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/transitions/expandable/LICENSE",
+    "identicalTo": "items/3d-webgl/shader-lens-blur/LICENSE",
+    "sha256": "d0470e1591e3b0f38e13719d20ef872ee68adbc5fa1a843e0a761ef5bdd5cc63"
+  },
+  {
+    "path": "items/transitions/morphing-dialog/LICENSE",
+    "identicalTo": "items/backgrounds/border-trail/LICENSE",
+    "sha256": "f668f5ef3635eb906f10b1eea9a32e449eb6e1a183ab6879ef6d56c0980dd2f3"
+  },
+  {
+    "path": "items/transitions/morphing-dialog/code/lib/utils.ts",
+    "identicalTo": "items/backgrounds/border-trail/code/lib/utils.ts",
+    "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+  },
+  {
+    "path": "items/utilities/gooey-svg-filter/LICENSE",
+    "identicalTo": "items/gallery-carousel/marquee-along-svg-path/LICENSE",
+    "sha256": "39b0d9c112b4e80383da88660cbaa64972f741e80205c14fa1b779ff1989cc09"
+  }
+]

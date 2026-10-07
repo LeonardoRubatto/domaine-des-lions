@@ -1,0 +1,15 @@
+{
+  "during": {
+    "opacity": "0.971454",
+    "state": "ready",
+    "title": "La piscine couverte.",
+    "transform": "matrix(1, 0, 0, 1, 0, 5.70926)",
+    "wordStyle": "blur(0.39431px)"
+  },
+  "after": {
+    "opacity": "0.992116",
+    "state": "ready",
+    "transform": "matrix(1, 0, 0, 1, 0, 1.57671)",
+    "wordStyle": "none"
+  }
+}

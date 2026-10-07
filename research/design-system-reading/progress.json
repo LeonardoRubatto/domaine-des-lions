@@ -1,0 +1,15 @@
+{
+  "instruction": "Lire tous les fichiers du design system et revoir le plan de zéro avant de reprendre le code du site.",
+  "totalTextFiles": 626,
+  "totalBinaryFiles": 102,
+  "uniqueTextFiles": 540,
+  "identicalDuplicates": 86,
+  "totalChunks": 581,
+  "fullyReadChunkRanges": [[20, 63], [65, 356]],
+  "nextChunk": 357,
+  "outputGaps": [{"chunk": 64, "note": "70 tokens truncated in What it does; reread this paragraph before closing the register."}],
+  "earlierRulesRead": "Règles déjà lues, mais relire les parties potentiellement tronquées de distinctiveness, spacing et accessibility ainsi que AGENTS avant de fermer le registre.",
+  "binaryInspection": "pending",
+  "newPlan": "pending",
+  "websiteImplementation": "suspended pending complete reading and replanning"
+}

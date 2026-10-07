@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "contentType": "image/webp",
+      "id": "1020f51a715c2154",
+      "kind": "image",
+      "name": "Frame-36.png",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/e4ea84b7-4d41-4e89-b1ed-0218d04d68db/1020f51a715c2154.png",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2025/04/Frame-36.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fe951fe4aea0eef2",
+      "kind": "image",
+      "name": "salle-a-manger.jpg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/e4ea84b7-4d41-4e89-b1ed-0218d04d68db/fe951fe4aea0eef2.jpg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salle-a-manger.jpg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "48c736d76e085ed8",
+      "kind": "image",
+      "name": "salon-piscine.jpg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/e4ea84b7-4d41-4e89-b1ed-0218d04d68db/48c736d76e085ed8.jpg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salon-piscine.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e4d9e4a90b451791",
+      "kind": "image",
+      "name": "logo_header.png",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/e4ea84b7-4d41-4e89-b1ed-0218d04d68db/e4d9e4a90b451791.png",
+      "url": "https://ledomaineauxlions.fr/wp-content/themes/theme-understrap/images/logo_header.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3e3dbc55a228e33e",
+      "kind": "image",
+      "name": "Photo-2.3.jpg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/e4ea84b7-4d41-4e89-b1ed-0218d04d68db/3e3dbc55a228e33e.jpg",
+      "url": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo-2.3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f2afcdd6fe1097c5",
+      "kind": "image",
+      "name": "footer-presentation.jpg",
+      "path": "C:\\Users\\rubat\\AppData\\Local\\Packages\\sandbox.{9234ac15-cc6b-4fb1-bced-043608bc97ee}\\AC\\Temp/browser-use/assets/e4ea84b7-4d41-4e89-b1ed-0218d04d68db/f2afcdd6fe1097c5.jpg",
+      "url": "https://ledomaineauxlions.fr/wp-content/themes/theme-understrap/images/footer-presentation.jpg"
+    }
+  ],
+  "failures": []
+}

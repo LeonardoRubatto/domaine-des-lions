@@ -1,0 +1,30 @@
+:root {
+  --ink: var(--green-12);
+  --muted: var(--green-11);
+  --surface: #fff;
+  --subtle: var(--green-2);
+  --line: var(--green-6);
+  --accent: var(--green-11);
+  --accent-hover: var(--green-12);
+  --tile: var(--clay-11);
+  --serif: 'Source Serif 4', Georgia, serif;
+  --sans: 'Public Sans', Arial, sans-serif;
+  --body-font-size: 17px;
+  --small-font-size: 14px;
+  --h1-size: clamp(52px, 6.7vw, 96px);
+  --h2-size: clamp(36px, 3.7vw, 56px);
+  --h3-size: clamp(24px, 2.2vw, 32px);
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-6: 48px;
+  --space-8: 64px;
+  --space-12: 96px;
+  --section-space: clamp(64px, 8vw, 128px);
+  --content-width: 1280px;
+  --page-gutter: clamp(24px, 4.44vw, 64px);
+  --motion-fast: 300ms;
+  --motion-scene: 400ms;
+  --motion-ease: cubic-bezier(0.7, 0, 0.2, 1);
+}

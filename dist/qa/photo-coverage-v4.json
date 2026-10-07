@@ -1,0 +1,387 @@
+{
+  "recovered": 76,
+  "gallery": 71,
+  "allPhotosPresent": true,
+  "photos": [
+    {
+      "key": "Photo-2.1",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Photo-2.2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "salons",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "salle-a-manger",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4524",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4525",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4529",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4528",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4526",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4527",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4531",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4532",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4533",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4530",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Photo-2.7",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Photo-2.6",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "IMG_4534",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Garden-2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Garden-1",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "tennis2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Garden-3",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "footer-presentation",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Transats",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Table-bebe",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "High-chairs",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Ninja",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Slackline",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Ping-pong",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "attraction3",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "attraction2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Game-room",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "salons-billard",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "piano",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "lion-piscine",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "3",
+      "gallery": false,
+      "access": true
+    },
+    {
+      "key": "2",
+      "gallery": false,
+      "access": true
+    },
+    {
+      "key": "1",
+      "gallery": false,
+      "access": true
+    },
+    {
+      "key": "4",
+      "gallery": false,
+      "access": true
+    },
+    {
+      "key": "5",
+      "gallery": false,
+      "access": true
+    },
+    {
+      "key": "maison-3_4-",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "home_slide_2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "home_slide_3",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "homepage-slide5",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "homepage-slide6",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "piscine",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Photo8_defile",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "home_title_1",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "bocage",
+      "gallery": true,
+      "access": true
+    },
+    {
+      "key": "VA-maisonpiscine",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "maison3",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "maison5",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "piscine2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "maison4NB",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "maison",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "basket",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "VAtennis",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "bateau",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre1",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "attraction",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre3",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre4",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre7",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre5",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre8",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre6",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre9",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre10",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "chambre11",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "salon-piscine",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "SDB1",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "SDB2",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "SDBjacuzzi",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "salon-racine",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "couloir-C",
+      "gallery": true,
+      "access": false
+    },
+    {
+      "key": "Photo-2.3",
+      "gallery": true,
+      "access": false
+    }
+  ]
+}

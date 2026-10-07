@@ -1,0 +1,23 @@
+
+v3.css
+  [possible-reinvention] looks like it may reimplement "CSV/JSON Content Pipeline for Static Sites" (architecture/csv-json-content-pipeline, reusable) — matched keywords: content, static. Check items/architecture/csv-json-content-pipeline/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Background Media" (backgrounds/bg-media, reusable) — matched keywords: background, media. Check items/backgrounds/bg-media/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Edge Blur (progressive)" (backgrounds/edge-blur, reusable) — matched keywords: edge, blur. Check items/backgrounds/edge-blur/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Hover Transition" (hover-cursor/hover-transition, reusable) — matched keywords: hover, transition. Check items/hover-cursor/hover-transition/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Circle Caption Reveal (Dribbble grid, 7 hover variants)" (image-treatment/circle-caption-reveal, reusable) — matched keywords: circle, caption, hover. Check items/image-treatment/circle-caption-reveal/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Ease Reverse Clip Menu (full-screen overlay menu)" (navigation/ease-reverse-clip-menu, reusable) — matched keywords: clip, screen. Check items/navigation/ease-reverse-clip-menu/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Hover Grid (nav with reveal panels)" (navigation/hover-grid, reusable) — matched keywords: hover, grid. Check items/navigation/hover-grid/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Background-Animate Button" (primitives/bg-animate-button, reusable) — matched keywords: background, button. Check items/primitives/bg-animate-button/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "CSS Button Hover Styles" (primitives/button-hover-styles, reusable) — matched keywords: button, hover. Check items/primitives/button-hover-styles/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Elastic Grid Scroll (per-column scroll lag)" (scroll/elastic-grid-scroll, reusable) — matched keywords: grid, column. Check items/scroll/elastic-grid-scroll/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "ScrollTrigger GSAP Horizontal Clip Path" (scroll/horizontal-clip-path-scroll, reference) — matched keywords: clip, path. Check items/scroll/horizontal-clip-path-scroll/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Perspective Gallery Clip-Path Scroll" (scroll/onscroll-clipped-sections, reference) — matched keywords: perspective, gallery, clip, path. Check items/scroll/onscroll-clipped-sections/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Sticky Grid Scroll" (scroll/sticky-grid-scroll, reusable) — matched keywords: sticky, grid. Check items/scroll/sticky-grid-scroll/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Blur Out Up" (text-effects/blur-out-up, reusable) — matched keywords: blur, out. Check items/text-effects/blur-out-up/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Variable Font Hover (by letter)" (text-effects/variable-font-hover-by-letter, reusable) — matched keywords: font, hover. Check items/text-effects/variable-font-hover-by-letter/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "Variable Font Hover (by random letter)" (text-effects/variable-font-hover-by-random-letter, reusable) — matched keywords: font, hover. Check items/text-effects/variable-font-hover-by-random-letter/item.md before continuing.
+  [possible-reinvention] looks like it may reimplement "SVG Path Page Transition (Vertical)" (transitions/svg-path-page-transition-vertical, reusable) — matched keywords: path, transition. Check items/transitions/svg-path-page-transition-vertical/item.md before continuing.
+
+--- audit summary ---
+files scanned: 1
+findings: 17

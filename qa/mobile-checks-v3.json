@@ -1,0 +1,114 @@
+[
+  {
+    "page": "index.html",
+    "h1": "La maison,\npour vous.La maison,pour vous.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "domaine.html",
+    "h1": "Une maison entière,rien que pour vous.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en-famille.html",
+    "h1": "Le domaineen famille.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "seminaires.html",
+    "h1": "Séminaires au domaine.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "galerie.html",
+    "h1": "L’album du domaine.L’album du domaine.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "sejour.html",
+    "h1": "Préparonsvotre séjour.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "acces.html",
+    "h1": "Votre arrivéeau domaine.",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "mentions-legales.html",
+    "h1": "Mentions légales",
+    "language": "fr",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/index.html",
+    "h1": "The house,\nall yours.The house,all yours.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/the-house.html",
+    "h1": "A whole house,all to yourselves.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/family-stays.html",
+    "h1": "Family staysat the estate.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/team-retreats.html",
+    "h1": "Team retreats at the estate.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/gallery.html",
+    "h1": "The estate’s album.The estate’s album.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/your-stay.html",
+    "h1": "Let’s planyour stay.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/getting-here.html",
+    "h1": "Your arrivalat the estate.",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "en/legal.html",
+    "h1": "Legal & privacy",
+    "language": "en",
+    "scrollWidth": 375,
+    "width": 390
+  }
+]

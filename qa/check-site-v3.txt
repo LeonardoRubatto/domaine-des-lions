@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "folder": "C:\\.Leonardo\\TELAVENTIS BUISNESSES websites\\domaine aux lions\\dist",
+  "files": 500,
+  "errors": [],
+  "warnings": [
+    "Verify the real form delivery and failure state: en\\your-stay.html",
+    "Verify the real form delivery and failure state: sejour.html",
+    "Browser review required: narrow/wide layouts, keyboard/focus, reduced motion, links/forms, content and image quality. JS imports/srcset and runtime behavior are not exhaustively analyzed.",
+    "Critique pass required before delivery: node scripts/critique.mjs <folder> --plan <plan.md> --shots <screenshots>, reviewed in a fresh context (rules/distinctiveness.md)."
+  ]
+}

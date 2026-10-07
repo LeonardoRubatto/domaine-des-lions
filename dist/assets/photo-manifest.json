@@ -1,0 +1,833 @@
+{
+  "Photo-2.1": {
+    "key": "photo-2-1",
+    "width": 1080,
+    "height": 719,
+    "widths": [
+      640,
+      960,
+      1080
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo-2.1.jpg"
+  },
+  "Photo-2.2": {
+    "key": "photo-2-2",
+    "width": 1080,
+    "height": 719,
+    "widths": [
+      640,
+      960,
+      1080
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo-2.2.jpg"
+  },
+  "salons": {
+    "key": "salons",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salons.jpg"
+  },
+  "salle-a-manger": {
+    "key": "salle-a-manger",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salle-a-manger.jpg"
+  },
+  "IMG_4524": {
+    "key": "img-4524",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4524.jpg"
+  },
+  "IMG_4525": {
+    "key": "img-4525",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4525.jpg"
+  },
+  "IMG_4529": {
+    "key": "img-4529",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4529.jpg"
+  },
+  "IMG_4528": {
+    "key": "img-4528",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4528.jpg"
+  },
+  "IMG_4526": {
+    "key": "img-4526",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4526.jpg"
+  },
+  "IMG_4527": {
+    "key": "img-4527",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4527.jpg"
+  },
+  "IMG_4531": {
+    "key": "img-4531",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4531.jpg"
+  },
+  "IMG_4532": {
+    "key": "img-4532",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4532.jpg"
+  },
+  "IMG_4533": {
+    "key": "img-4533",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4533.jpg"
+  },
+  "IMG_4530": {
+    "key": "img-4530",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4530.jpg"
+  },
+  "Photo-2.7": {
+    "key": "photo-2-7",
+    "width": 1080,
+    "height": 719,
+    "widths": [
+      640,
+      960,
+      1080
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo-2.7.jpg"
+  },
+  "Photo-2.6": {
+    "key": "photo-2-6",
+    "width": 1080,
+    "height": 810,
+    "widths": [
+      640,
+      960,
+      1080
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo-2.6.jpg"
+  },
+  "IMG_4534": {
+    "key": "img-4534",
+    "width": 2016,
+    "height": 1512,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2023/12/IMG_4534.jpg"
+  },
+  "Garden-2": {
+    "key": "garden-2",
+    "width": 1024,
+    "height": 768,
+    "widths": [
+      640,
+      960,
+      1024
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Garden-2.jpg"
+  },
+  "Garden-1": {
+    "key": "garden-1",
+    "width": 1024,
+    "height": 768,
+    "widths": [
+      640,
+      960,
+      1024
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Garden-1.jpg"
+  },
+  "tennis2": {
+    "key": "tennis2",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/tennis2.jpg"
+  },
+  "Garden-3": {
+    "key": "garden-3",
+    "width": 768,
+    "height": 1024,
+    "widths": [
+      640,
+      768
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Garden-3.jpg"
+  },
+  "footer-presentation": {
+    "key": "footer-presentation",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/themes/theme-understrap/images/footer-presentation.jpg"
+  },
+  "Transats": {
+    "key": "transats",
+    "width": 2560,
+    "height": 1920,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Transats-scaled.jpg"
+  },
+  "Table-bebe": {
+    "key": "table-bebe",
+    "width": 1920,
+    "height": 2560,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Table-bebe-scaled.jpg"
+  },
+  "High-chairs": {
+    "key": "high-chairs",
+    "width": 1920,
+    "height": 2560,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/High-chairs-scaled.jpg"
+  },
+  "Ninja": {
+    "key": "ninja",
+    "width": 1920,
+    "height": 2560,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Ninja-scaled.jpg"
+  },
+  "Slackline": {
+    "key": "slackline",
+    "width": 1920,
+    "height": 2560,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Slackline-scaled.jpg"
+  },
+  "Ping-pong": {
+    "key": "ping-pong",
+    "width": 2560,
+    "height": 1920,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Ping-pong-scaled.jpg"
+  },
+  "attraction3": {
+    "key": "attraction3",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/attraction3.jpg"
+  },
+  "attraction2": {
+    "key": "attraction2",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/attraction2.jpg"
+  },
+  "Game-room": {
+    "key": "game-room",
+    "width": 768,
+    "height": 1024,
+    "widths": [
+      640,
+      768
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Game-room.jpg"
+  },
+  "salons-billard": {
+    "key": "salons-billard",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salons-billard.jpg"
+  },
+  "piano": {
+    "key": "piano",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/piano.jpg"
+  },
+  "lion-piscine": {
+    "key": "lion-piscine",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/lion-piscine.jpg"
+  },
+  "3": {
+    "key": "3",
+    "width": 667,
+    "height": 463,
+    "widths": [
+      640,
+      667
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/3.jpeg"
+  },
+  "2": {
+    "key": "2",
+    "width": 1024,
+    "height": 768,
+    "widths": [
+      640,
+      960,
+      1024
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/2.jpeg"
+  },
+  "1": {
+    "key": "1",
+    "width": 725,
+    "height": 643,
+    "widths": [
+      640,
+      725
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/1.jpeg"
+  },
+  "4": {
+    "key": "4",
+    "width": 1024,
+    "height": 768,
+    "widths": [
+      640,
+      960,
+      1024
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/4.jpeg"
+  },
+  "5": {
+    "key": "5",
+    "width": 768,
+    "height": 1024,
+    "widths": [
+      640,
+      768
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2022/02/5.jpeg"
+  },
+  "maison-3_4-": {
+    "key": "maison-3-4",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/maison-3_4-.jpg"
+  },
+  "home_slide_2": {
+    "key": "home-slide-2",
+    "width": 1024,
+    "height": 768,
+    "widths": [
+      640,
+      960,
+      1024
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/10/home_slide_2.jpg"
+  },
+  "home_slide_3": {
+    "key": "home-slide-3",
+    "width": 1024,
+    "height": 768,
+    "widths": [
+      640,
+      960,
+      1024
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/10/home_slide_3.jpg"
+  },
+  "homepage-slide5": {
+    "key": "homepage-slide5",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/homepage-slide5.jpg"
+  },
+  "homepage-slide6": {
+    "key": "homepage-slide6",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/homepage-slide6.jpg"
+  },
+  "piscine": {
+    "key": "piscine",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/piscine.jpg"
+  },
+  "Photo8_defile": {
+    "key": "photo8-defile",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo8_defile.jpg"
+  },
+  "home_title_1": {
+    "key": "home-title-1",
+    "width": 1920,
+    "height": 600,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/10/home_title_1.jpg"
+  },
+  "bocage": {
+    "key": "bocage",
+    "width": 1920,
+    "height": 1279,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/bocage.jpg"
+  },
+  "VA-maisonpiscine": {
+    "key": "va-maisonpiscine",
+    "width": 1920,
+    "height": 1279,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/VA-maisonpiscine.jpg"
+  },
+  "maison3": {
+    "key": "maison3",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/maison3.jpg"
+  },
+  "maison5": {
+    "key": "maison5",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/maison5.jpg"
+  },
+  "piscine2": {
+    "key": "piscine2",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/piscine2.jpg"
+  },
+  "maison4NB": {
+    "key": "maison4nb",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/maison4NB.jpg"
+  },
+  "maison": {
+    "key": "maison",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/maison.jpg"
+  },
+  "basket": {
+    "key": "basket",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/basket.jpg"
+  },
+  "VAtennis": {
+    "key": "vatennis",
+    "width": 1920,
+    "height": 1279,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/VAtennis.jpg"
+  },
+  "bateau": {
+    "key": "bateau",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/bateau.jpg"
+  },
+  "chambre1": {
+    "key": "chambre1",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre1.jpg"
+  },
+  "chambre2": {
+    "key": "chambre2",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre2.jpg"
+  },
+  "attraction": {
+    "key": "attraction",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/attraction.jpg"
+  },
+  "chambre3": {
+    "key": "chambre3",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre3.jpg"
+  },
+  "chambre4": {
+    "key": "chambre4",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre4.jpg"
+  },
+  "chambre7": {
+    "key": "chambre7",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre7.jpg"
+  },
+  "chambre5": {
+    "key": "chambre5",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre5.jpg"
+  },
+  "chambre8": {
+    "key": "chambre8",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre8.jpg"
+  },
+  "chambre6": {
+    "key": "chambre6",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre6.jpg"
+  },
+  "chambre9": {
+    "key": "chambre9",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre9.jpg"
+  },
+  "chambre10": {
+    "key": "chambre10",
+    "width": 1920,
+    "height": 1080,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre10.jpg"
+  },
+  "chambre11": {
+    "key": "chambre11",
+    "width": 1920,
+    "height": 1080,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/chambre11.jpg"
+  },
+  "salon-piscine": {
+    "key": "salon-piscine",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salon-piscine.jpg"
+  },
+  "SDB1": {
+    "key": "sdb1",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/SDB1.jpg"
+  },
+  "SDB2": {
+    "key": "sdb2",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/SDB2.jpg"
+  },
+  "SDBjacuzzi": {
+    "key": "sdbjacuzzi",
+    "width": 1920,
+    "height": 1280,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/SDBjacuzzi.jpg"
+  },
+  "salon-racine": {
+    "key": "salon-racine",
+    "width": 1920,
+    "height": 1443,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/salon-racine.jpg"
+  },
+  "couloir-C": {
+    "key": "couloir-c",
+    "width": 1920,
+    "height": 1440,
+    "widths": [
+      640,
+      960,
+      1536
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/04/couloir-C.jpg"
+  },
+  "Photo-2.3": {
+    "key": "photo-2-3",
+    "width": 1080,
+    "height": 720,
+    "widths": [
+      640,
+      960,
+      1080
+    ],
+    "source": "https://ledomaineauxlions.fr/wp-content/uploads/2021/07/Photo-2.3.jpg"
+  }
+}

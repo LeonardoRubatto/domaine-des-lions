@@ -1,0 +1,57 @@
+[
+  {
+    "active": "Aller au contenu",
+    "tour": false
+  },
+  {
+    "active": "Le Domaine aux Lions, accueil",
+    "tour": false
+  },
+  {
+    "active": "Read this page in English",
+    "tour": false
+  },
+  {
+    "active": "Réserver un séjour",
+    "tour": false
+  },
+  {
+    "active": "Ouvrir le menu",
+    "tour": false
+  },
+  {
+    "active": "Consulter l’annonce sur Airbnb",
+    "section": "hero hero-estate wrap",
+    "tour": false
+  },
+  {
+    "active": "Consulter l’annonce sur Booking.com",
+    "section": "hero hero-estate wrap",
+    "tour": false
+  },
+  {
+    "active": "Découvrir les espaces et équipements",
+    "section": "home-intro wrap",
+    "tour": false
+  },
+  {
+    "active": "Voir les chambres",
+    "section": "home-intro wrap",
+    "tour": false
+  },
+  {
+    "active": "Les équipements du domaine",
+    "section": "leisure-deck wrap",
+    "tour": false
+  },
+  {
+    "active": "Profiter du domaine en famille",
+    "section": "leisure-deck wrap",
+    "tour": false
+  },
+  {
+    "active": "Commencer la visite à 360°",
+    "section": "tour-hub",
+    "tour": true
+  }
+]

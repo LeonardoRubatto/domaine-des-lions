@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "createdAt": "2026-10-07T21:36:05.486Z",
+  "state": "prepared",
+  "items": [
+    {
+      "id": "primitives/button-hover-styles",
+      "version": "f7a2214ae3f9ef269fe3375014e0f95a38a820cb94d781220242d06859e9e10d",
+      "license": "MIT",
+      "source": null
+    },
+    {
+      "id": "scroll/stacked-sections",
+      "version": "a16794c8f0550a83c7ec43123116b49e8c12061e7526e9c74c850c90846121b8",
+      "license": "MIT",
+      "source": null
+    },
+    {
+      "id": "scroll/scroll-tilted-grid",
+      "version": "6bd2137ee3e6a28c475f52a44e8d43ddd189bfc9d1fd11e1eda0e1ccf695a6da",
+      "license": "MIT",
+      "source": "https://componentry.dev/r/scroll-tilted-grid.json"
+    },
+    {
+      "id": "gallery-carousel/shapes-slideshow",
+      "version": "a8b37c304d4ff7ab48c071bb07aa7b68cad333648b9cd83f63b8f69fe8ca8290",
+      "license": "MIT",
+      "source": "http://tympanus.net/Development/ShapesSlideshow/"
+    },
+    {
+      "id": "backgrounds/progressive-blur",
+      "version": "8a70cfb464845030046db195c74dd4823dbb75b5c6b7d5ada7cee6aefccfedc2",
+      "license": "MIT",
+      "source": null
+    },
+    {
+      "id": "text-effects/text-effect",
+      "version": "6b1a575cb2949285bf3e744577fc9f0a985fbac3558caa14c2d937c1198a48b4",
+      "license": "MIT",
+      "source": null
+    }
+  ]
+}

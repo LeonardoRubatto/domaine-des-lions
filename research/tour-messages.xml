@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[Domaine des Lions]]></data>
+  <data name="fr_project_author_name"><![CDATA[Faben Lestrade Photographies]]></data>
+
+
+  <data name="fr_panogroup6847_title"><![CDATA[Le Jardin]]></data>
+
+  <data name="fr_pano6821_title"><![CDATA[Bienvenue]]></data>
+  <data name="fr_spotpoint7037_tooltip"><![CDATA[Façade]]></data>
+  <data name="fr_spotpoint7038_tooltip"><![CDATA[Vers le jardin]]></data>
+  <data name="fr_pano6816_title"><![CDATA[Terrasse]]></data>
+  <data name="fr_spotpoint7039_tooltip"><![CDATA[Entrée piscine]]></data>
+  <data name="fr_spotpoint7040_tooltip"><![CDATA[Entrée du gîte]]></data>
+  <data name="fr_spotpoint7041_tooltip"><![CDATA[Salle à manger]]></data>
+  <data name="fr_spotpoint7042_tooltip"><![CDATA[Salon]]></data>
+  <data name="fr_spotpoint7043_tooltip"><![CDATA[Vers le jardin]]></data>
+  <data name="fr_pano6817_title"><![CDATA[Piscine]]></data>
+  <data name="fr_spotpoint7044_tooltip"><![CDATA[Terrasse]]></data>
+  <data name="fr_pano6818_title"><![CDATA[Jeux d'enfants]]></data>
+  <data name="fr_spotpoint7045_tooltip"><![CDATA[Terrasse]]></data>
+  <data name="fr_spotpoint7046_tooltip"><![CDATA[Terrain de tennis et boulodrome]]></data>
+  <data name="fr_pano6819_title"><![CDATA[Terrains de jeux]]></data>
+  <data name="fr_spotpoint7047_tooltip"><![CDATA[Terrain de tenis]]></data>
+  <data name="fr_spotpoint7048_tooltip"><![CDATA[Boulodrome]]></data>
+  <data name="fr_spotpoint7049_tooltip"><![CDATA[Vers le gîte]]></data>
+  <data name="fr_pano6820_title"><![CDATA[R0012866 2]]></data>
+  <data name="fr_pano6822_title"><![CDATA[R0012868 2]]></data>
+
+  <data name="fr_panogroup6823_title"><![CDATA[Le gîte]]></data>
+
+  <data name="fr_pano6793_title"><![CDATA[Entrée]]></data>
+  <data name="fr_spotpoint7050_tooltip"><![CDATA[Terrasse]]></data>
+  <data name="fr_spotpoint7051_tooltip"><![CDATA[Etage]]></data>
+  <data name="fr_spotpoint7052_tooltip"><![CDATA[Salle à manger]]></data>
+  <data name="fr_spotpoint7053_tooltip"><![CDATA[Cuisine]]></data>
+  <data name="fr_spotpoint7055_tooltip"><![CDATA[Sortie de service]]></data>
+  <data name="fr_pano6792_title"><![CDATA[Cuisine]]></data>
+  <data name="fr_spotpoint7054_tooltip"><![CDATA[Entrée]]></data>
+  <data name="fr_pano6794_title"><![CDATA[Salle à manger]]></data>
+  <data name="fr_spotpoint7057_tooltip"><![CDATA[Entrée]]></data>
+  <data name="fr_spotpoint7058_tooltip"><![CDATA[Salon]]></data>
+  <data name="fr_spotpoint7059_tooltip"><![CDATA[Terrasse]]></data>
+  <data name="fr_pano6815_title"><![CDATA[Salon]]></data>
+  <data name="fr_spotpoint7060_tooltip"><![CDATA[Salle à manger]]></data>
+  <data name="fr_spotpoint7061_tooltip"><![CDATA[Terrasse]]></data>
+  <data name="fr_spotpoint7062_tooltip"><![CDATA[Salle de jeux]]></data>
+  <data name="fr_pano6797_title"><![CDATA[Salle de jeux]]></data>
+  <data name="fr_spotpoint7063_tooltip"><![CDATA[Salon]]></data>
+  <data name="fr_spotpoint7064_tooltip"><![CDATA[Palier]]></data>
+  <data name="fr_spotpoint7065_tooltip"><![CDATA[Chambre Millet]]></data>
+  <data name="fr_pano6798_title"><![CDATA[Millet]]></data>
+  <data name="fr_spotpoint7066_tooltip"><![CDATA[Salle de jeux]]></data>
+  <data name="fr_pano6800_title"><![CDATA[Palier rez-de-chaussée]]></data>
+  <data name="fr_spotpoint7067_tooltip"><![CDATA[Salle de jeux]]></data>
+  <data name="fr_spotpoint7068_tooltip"><![CDATA[WC]]></data>
+  <data name="fr_spotpoint7069_tooltip"><![CDATA[Jacuzzi]]></data>
+  <data name="fr_spotpoint7070_tooltip"><![CDATA[Rangement]]></data>
+  <data name="fr_spotpoint7071_tooltip"><![CDATA[Etage]]></data>
+  <data name="fr_pano6801_title"><![CDATA[Salle de bain jacuzzi]]></data>
+  <data name="fr_spotpoint7072_tooltip"><![CDATA[Palier]]></data>
+  <data name="fr_pano6808_title"><![CDATA[Couloir est]]></data>
+  <data name="fr_spotpoint7074_tooltip"><![CDATA[Couloir ouest]]></data>
+  <data name="fr_spotpoint7075_tooltip"><![CDATA[Rez-de-chaussée]]></data>
+  <data name="fr_spotpoint7076_tooltip"><![CDATA[Salle de bain]]></data>
+  <data name="fr_spotpoint7077_tooltip"><![CDATA[Chambre Poussin]]></data>
+  <data name="fr_spotpoint7084_tooltip"><![CDATA[Chambre Carot]]></data>
+  <data name="fr_spotpoint7085_tooltip"><![CDATA[Chambre Monet]]></data>
+  <data name="fr_spotpoint7087_tooltip"><![CDATA[Chambre Duffy]]></data>
+  <data name="fr_spotpoint7091_tooltip"><![CDATA[Chambre Géricault]]></data>
+  <data name="fr_pano6809_title"><![CDATA[Couloir ouest]]></data>
+  <data name="fr_spotpoint7078_tooltip"><![CDATA[Chambre Renoir]]></data>
+  <data name="fr_spotpoint7079_tooltip"><![CDATA[Chambre Duchamps]]></data>
+  <data name="fr_spotpoint7080_tooltip"><![CDATA[Salle de bain]]></data>
+  <data name="fr_spotpoint7081_tooltip"><![CDATA[Chambre Courbet]]></data>
+  <data name="fr_spotpoint7082_tooltip"><![CDATA[Salle de douche]]></data>
+  <data name="fr_spotpoint7083_tooltip"><![CDATA[Couloir Est]]></data>
+  <data name="fr_spotpoint7106_tooltip"><![CDATA[Rez-de-chaussée]]></data>
+  <data name="fr_pano6802_title"><![CDATA[Salle de bain est]]></data>
+  <data name="fr_spotpoint7092_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano7033_title"><![CDATA[Poussin]]></data>
+  <data name="fr_spotpoint7095_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6803_title"><![CDATA[Duffy]]></data>
+  <data name="fr_spotpoint7096_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano7088_title"><![CDATA[Géricault]]></data>
+  <data name="fr_spotpoint7097_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6806_title"><![CDATA[Monet]]></data>
+  <data name="fr_spotpoint7099_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6807_title"><![CDATA[Carot]]></data>
+  <data name="fr_spotpoint7100_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6810_title"><![CDATA[Salle de bain ouest]]></data>
+  <data name="fr_spotpoint7101_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6811_title"><![CDATA[Salle de douche]]></data>
+  <data name="fr_spotpoint7102_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6812_title"><![CDATA[Courbet]]></data>
+  <data name="fr_spotpoint7103_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6813_title"><![CDATA[Duchamps]]></data>
+  <data name="fr_spotpoint7104_tooltip"><![CDATA[Couloir]]></data>
+  <data name="fr_pano6814_title"><![CDATA[Renoir]]></data>
+  <data name="fr_spotpoint7105_tooltip"><![CDATA[Couloir]]></data>
+
+
+	<data name="fr_spotmap3101_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7001_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7002_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7003_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7006_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7007_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7009_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7010_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7011_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7012_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7015_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7016_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7017_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7018_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7019_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7020_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7021_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7022_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7023_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7024_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7025_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7026_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7027_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7028_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7029_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7030_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7031_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7035_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap7090_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="fr_logo1websiteurl"><![CDATA[https://www.fabienlestrade.com]]></data>
+  <data name="fr_logo1tooltipText"><![CDATA[Réalisé par Fabien Lestrade Photographies]]></data>
+  <data name="fr_controlBar_classicprevSceneTip"><![CDATA[Panorama précédent]]></data>
+  <data name="fr_controlBar_classicnextSceneTip"><![CDATA[Panorama suivant]]></data>
+  <data name="fr_controlBar_classiczoomInTip"><![CDATA[Zoom +]]></data>
+  <data name="fr_controlBar_classiczoomOutTip"><![CDATA[Zoom -]]></data>
+  <data name="fr_controlBar_classicmoveLeftTip"><![CDATA[Déplacement vers la gauche]]></data>
+  <data name="fr_controlBar_classicmoveRightTip"><![CDATA[Déplacement vers la droite]]></data>
+  <data name="fr_controlBar_classicmoveUpTip"><![CDATA[Déplacement vers le haut]]></data>
+  <data name="fr_controlBar_classicmoveDownTip"><![CDATA[Déplacement vers le bas]]></data>
+  <data name="fr_controlBar_classicopenFsTip"><![CDATA[Plein écran]]></data>
+  <data name="fr_controlBar_classiccloseFsTip"><![CDATA[Quitter le plein écran]]></data>
+  <data name="fr_controlBar_classicautorotateOnTip"><![CDATA[Démarrer l'Autorotation]]></data>
+  <data name="fr_controlBar_classicautorotateOffTip"><![CDATA[Arrêter l'Autorotation]]></data>
+  <data name="fr_controlBar_classicdisplayHelpTip"><![CDATA[Afficher l'écran d'aide]]></data>
+  <data name="fr_controlBar_classichideHelpTip"><![CDATA[Masquer l'écran d'aide]]></data>
+  <data name="fr_controlBar_classicdisplayControlsTip"><![CDATA[Afficher les contrôles]]></data>
+  <data name="fr_controlBar_classichideControlsTip"><![CDATA[Masquer les contrôles]]></data>
+  <data name="fr_controlBar_classicctrlmodeDragTip"><![CDATA[Changer le mode de navigation]]></data>
+  <data name="fr_controlBar_classicctrlmodeMoveTip"><![CDATA[Changer le mode de navigation]]></data>
+  <data name="fr_floorPlandisplay_close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_logo2websiteurl"><![CDATA[https://ledomaineauxlions.fr]]></data>
+  <data name="fr_logo2tooltipText"><![CDATA[Ouvrir le site]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+  <data name="fr_project_description"><![CDATA[<font face="times new roman, serif" size="1"><i><span style="background-color: rgb(204, 204, 204);">Réalisé par</span><font color="#00ffff" style="background-color: rgb(204, 204, 204);"> <a href="mailto:contact@fabienlestrade.com" target="_blank">Fabien Lestrade Photographies</a></font></i></font>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
