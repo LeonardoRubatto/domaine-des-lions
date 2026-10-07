@@ -7,9 +7,9 @@
   --accent: var(--green-11);
   --accent-hover: var(--green-12);
   --tile: var(--clay-11);
-  --serif: 'Source Serif 4', Georgia, serif;
-  --sans: 'Public Sans', Arial, sans-serif;
-  --body-font-size: 17px;
+  --serif: 'Alegreya', Georgia, serif;
+  --sans: 'Alegreya Sans', Arial, sans-serif;
+  --body-font-size: 18px;
   --small-font-size: 14px;
   --h1-size: clamp(52px, 6.7vw, 96px);
   --h2-size: clamp(36px, 3.7vw, 56px);

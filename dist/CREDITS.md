@@ -22,7 +22,7 @@ Virtual tour: existing Panotour/krpano presentation supplied for Le Domaine aux 
 
 Gallery filters use native reflow. Native HTML dialogs follow the system's APG guidance. Reviews rotate with a reading-time interval, explicit pause and focus/visibility guards; reduced motion disables automatic rotation.
 
-Source Serif 4, Adobe, and Public Sans, US Web Design System: self-hosted variable fonts, SIL Open Font License 1.1. Original notices are included in `licenses/source-serif-4-OFL.txt` and `licenses/public-sans-OFL.txt`.
+Alegreya and Alegreya Sans, Juan Pablo del Peral / HT Fonts: self-hosted fonts, SIL Open Font License 1.1. Official sources: https://github.com/google/fonts/tree/main/ofl/alegreya and https://github.com/google/fonts/tree/main/ofl/alegreyasans. Original notices are included in `licenses/alegreya-OFL.txt` and `licenses/alegreyasans-OFL.txt`. The previous Source Serif 4 and Public Sans files and their original licenses remain archived in assets/fonts and licenses; they are no longer loaded.
 
 Design and static implementation: Telaventis. Local prospect presentation, not a commissioned or published client site.
 

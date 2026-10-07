@@ -22,8 +22,8 @@ Pas de photo assombrie pour porter tout le texte, de paper-background, d'eyebrow
 - hero: asymmetric — photo dominante décalée à droite, nom du domaine dans un retrait blanc au bas du cadre, piano à gauche, informations après le titre
 - grid: asymmetric — photographies de tailles différentes, chapitres 5/7, aucune série de trois cartes égales
 - nav: top-bar — 80px desktop, 72px mobile, langue 44px et Hyperion rectangulaire
-- type-voice: mixed — Source Serif 4 pour le livre de la maison, Public Sans pour l'information pratique
-- type-scale: classic — 112px au hero / 96px display interne / 17px body, fluide jusqu'à44px sur320px
+- type-voice: mixed — Alegreya pour le livre de la maison, Alegreya Sans pour l'information pratique
+- type-scale: classic — 112px au hero / 96px display interne / 18px body, fluide jusqu'à44px sur320px
 - surface: white — blanc des fenêtres et vert seulement pour tennis et visite
 - color: two-tone — jardin et terre cuite des sols, échelles OKLCH
 - image: framed — photos rectangulaires nettes, sans coins arrondis; flou progressif discret au bas des grandes images uniquement
@@ -35,7 +35,7 @@ Pas de photo assombrie pour porter tout le texte, de paper-background, d'eyebrow
 Les huit pages FR/EN subsistent. Les descriptions sont toujours visibles dans des chapitres ouverts, les informations pratiques sont disposées en deux colonnes, les avis apparaissent dans une galerie automatique avec pause. L'espace 3D n'est plus répété sur les pages internes; elles pointent vers l'accueil. La galerie commence par cinq grandes photos choisies, puis montre toutes les images dans une composition décalée. Mobile : une colonne, commandes 44px minimum, taille adaptée de la visite intégrée.
 
 ## Type
-Source Serif 4 400/600, tradition du livre illustré qui relie colombages et tableaux; Public Sans 400/600 pour les légendes et la réservation internationale. Polices OFL locales, font-display swap. Échelle 14/17/24/32/44/48/96/112px, titres 1.1, boutons 1.2 sans exception. Le hero mobile descend à44px sur320px pour conserver deux lignes. Aucun serif italique d'accent.
+Typographie validée le 8 octobre, autorisée pour push : Alegreya 400/440 pour les titres et les témoignages, Alegreya Sans 400/500 pour le texte et les commandes. Le dessin humaniste aux inflexions calligraphiques rappelle le livre illustré et les tableaux de la maison, avec un rythme moins neutre que l'ancienne paire Source Serif 4/Public Sans. Aucune revendication d'origine normande de la police. Texte courant à18px pour la petite hauteur d'œil de la sans; descriptions compactes à16/17px, légendes à14px. Navigation et actions à16px desktop, action du header à14px mobile; capacité et localisation à14px mobile. Deux graisses par famille, grands titres h1/h2 à440 à la demande de Leonardo, soit un léger renfort depuis400; h3 et témoignages à400 pour garder une présence domestique plutôt qu'institutionnelle. La valeur de graisse440 n'est pas une mesure de10% d'épaisseur optique. Polices OFL locales, font-display swap. Tailles des grands titres conservées, titres1.1 et boutons1.2; aucune italique d'accent.
 
 ## Color
 tokens/green.css généré par generate-color-scale.mjs --hue 150 --chroma 0.045; tokens/clay.css --hue 45 --chroma 0.075. tokens/ui.css applique blanc et vert-12 au texte, vert-11 aux liens. Hyperion conserve noir/blanc et mix-blend-mode difference du code exact. WCAG et APCA mesurés dans le rendu.

@@ -192,7 +192,7 @@
   .hero-estate .hero-description { grid-column: 1 / -1; grid-row: 3; padding-top: 16px; padding-bottom: 0; }
   .hero-estate .hero-description p { font-size: 16px; margin-bottom: 8px; }
   .hero-estate .hero-detail { grid-column: 4 / -1; grid-row: 3; padding-top: 32px; }
-  .hero-estate .hero-setting { grid-column: 1 / -1; grid-row: 2; padding-top: 72px; font-size: 13px; gap: 24px; justify-content: space-between; }
+  .hero-estate .hero-setting { grid-column: 1 / -1; grid-row: 2; padding-top: 72px; font-size: 14px; gap: 24px; justify-content: space-between; }
   .hero-estate .hero-description { grid-column: 1 / -1; }
   .hero-estate .hero-detail { display: none; }
   .hero-booking { display: flex; align-items: center; flex-wrap: wrap; gap: 0 12px; }

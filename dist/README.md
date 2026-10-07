@@ -4,6 +4,8 @@ Ouvrir `index.html` dans un navigateur, ou servir ce dossier avec un serveur sta
 
 Huit pages dans chaque langue : accueil, domaine, famille, séminaires, galerie, séjour, accès et mentions légales. Logo et photographies conservés ; typographies locales ; galerie composée avec diaporama à transition circulaire et index filtrable ; avis automatiques avec pause ; descriptions ouvertes et illustrées ; un seul espace Panotour intégré à l’accueil, chargé à la demande avec accès aux scènes réelles. Demande de séjour préparée localement et liens Airbnb et Booking existants.
 
+Typographie validée le 8 octobre : Alegreya pour les titres (h1/h2 à440, h3/témoignages à400), Alegreya Sans400/500 pour les textes et commandes. Détails et captures : `qa/typography-proposal.md`.
+
 Le formulaire prépare un e-mail à relire dans la messagerie du visiteur. Il ne confirme ni disponibilités, ni tarif, ni réservation. La visite 3D reste hébergée par son prestataire et nécessite une connexion Internet.
 
 Design Memory : boutons Codrops Hyperion, Dione, Skoll et Fenrir ; Animata Stacked Sections ; Codrops Shapes Slideshow ; Componentry Scroll Tilted Grid ; Motion Primitives Progressive Blur, Text Effect et Morphing Dialog ; couleurs OKLCH et tokens locaux. Diaporama automatique toutes les huit secondes avec pause, flou progressif au bas des grands cadres, transitions communes entre sections et six titres ciblés à l’accueil. Reduced motion désactive les mouvements et les rotations automatiques. Décisions finales : `design-plan-v3.md`. Vérifications : `qa/verification-v4.md`.
